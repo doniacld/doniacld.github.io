@@ -1,0 +1,44 @@
+############# English navigation ##############
+
+# main menu
+
+[[main]]
+name = "home"
+url = ""
+weight = 1
+
+[[main]]
+name = "blog"
+url = "blog/"
+weight = 2
+
+[[main]]
+name = "category"
+url = "categories/"
+weight = 3
+
+  [[main]]
+  parent= "category"
+  name = "tech"
+  url = "categories/tech"
+
+  [[main]]
+  parent= "category"
+  name = "career"
+  url = "categories/career"
+
+
+[[main]]
+name = "talks"
+url = "talks/"
+weight = 4
+
+[[main]]
+name = "about"
+url = "about/"
+weight = 5
+
+[[main]]
+name = "contact"
+url = "contact/"
+weight = 6

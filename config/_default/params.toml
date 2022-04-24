@@ -1,0 +1,57 @@
+#################### default parameters ################################
+# favicon
+favicon = "images/profile.png"
+# logo
+logo = "images/profile.jpeg"
+# use `x` with logo_width, example: "100x"
+logo_width = "150px"
+# logo text will only show when logo is missing.
+logo_text = "TechFeed"
+# OpenGraph / Twitter Card metadata
+description = "This is meta description"
+author = "Donia Chaiehloudj"
+image = "images/profile.png" # this image will be used as fallback if a page has no image of its own
+# main sections
+mainSections = ["blog"]
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# copyright text
+copyright = "Copyright © 2021 - Donia Chaiehloudj · All rights reserved"
+# custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
+custom_script= ""
+
+# Custom copyright - optional
+#favicon = "/favicon.svg"
+
+
+# author
+[author_block]
+title= "Hi, welcome to my blog!"
+image= "images/profile.jpeg."
+content= "My name is Donia Chaiehloudj. I am a software engineer and blogger who enjoys dancing, sewing and hiking."
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# cookies
+[cookies]
+enable = false
+expire_days = 2
+content = "This site uses cookies. By continuing to use this website, you agree to their use."
+button = "I Accept"
+
+############################# social site #######################
+
+[[social]]
+icon = "fab fa-twitter"
+link = "doniacld"
+
+[[social]]
+icon = "fab fa-linkedin"
+link = "https://linkedin.com/in/donia-chaiehloudj"
+
+[[social]]
+icon = "fab fa-medium"
+link = "https://doniacld.medium.com"

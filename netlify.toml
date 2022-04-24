@@ -1,0 +1,8 @@
+[build]
+  publish = "doniacld.github.io/public"
+  command = "cd doniacld.github.io && hugo --minify --gc --themesDir themes/techfeed-hugo"
+  
+[build.environment]
+  HUGO_VERSION = "0.86.0"
+  HUGO_THEME = "themes/techfeed-hugo"
+  HUGO_BASEURL = "/doniacld.github.io"
