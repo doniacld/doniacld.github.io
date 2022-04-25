@@ -4,5 +4,4 @@
   
 [build.environment]
   HUGO_VERSION = "0.86.0"
-  HUGO_THEME = "themes/techfeed-hugo"
-  HUGO_BASEURL = "/doniacld.github.io"
+  HUGO_BASEURL = "/"
