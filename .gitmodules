@@ -1,0 +1,3 @@
+[submodule "themes/techfeed-hugo"]
+	path = themes/techfeed-hugo
+	url = https://github.com/gethugothemes/techfeed-hugo.git
