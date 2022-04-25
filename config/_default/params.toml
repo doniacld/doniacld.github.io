@@ -6,7 +6,7 @@ logo = "images/profile.jpeg"
 # use `x` with logo_width, example: "100x"
 logo_width = "150px"
 # logo text will only show when logo is missing.
-logo_text = "TechFeed"
+logo_text = "Donia Chaiehloudj's Blog"
 # OpenGraph / Twitter Card metadata
 description = "Donia Chaiehloudj's Blog, Talking about Career, Go and OpenSource stuff"
 author = "Donia Chaiehloudj"
