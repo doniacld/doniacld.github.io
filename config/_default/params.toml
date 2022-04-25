@@ -8,7 +8,7 @@ logo_width = "150px"
 # logo text will only show when logo is missing.
 logo_text = "TechFeed"
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
+description = "Donia Chaiehloudj's Blog, Talking about Career, Go and OpenSource stuff"
 author = "Donia Chaiehloudj"
 image = "images/profile.jpeg" # this image will be used as fallback if a page has no image of its own
 # main sections
@@ -46,7 +46,7 @@ button = "I Accept"
 
 [[social]]
 icon = "fab fa-twitter"
-link = "doniacld"
+link = "https://twitter.com/doniacld"
 
 [[social]]
 icon = "fab fa-linkedin"
