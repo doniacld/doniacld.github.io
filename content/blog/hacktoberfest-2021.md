@@ -35,7 +35,7 @@ We decided that I could contribute by solving these [3 issues](https://github.co
 Since this moment, I have been coding every available hour I had. It felt so reviving to spend time coding on new projects, rewarding to solve issues for people actually using the tool. 
 Here are all my [contributions](https://hacktoberfestchecker.jenko.me/user/doniacld).
 
-![](images/hacktoberfest_01.png)
+{{< image src="images/hacktoberfest_01.png" caption="Contributions on my Hacktoberfest profile" alt="alter-text" height="" width="" position="center" command="fill" option="q90" class="img-fluid" title="Image Title" webp="true" >}}
 
 Now, my 4PRs are submitted and approved, I am waiting for the 15 days maturation to finish the challenge! 
 A special thanks for the Hacktoberfest, [Salvador](https://github.com/chavacava) and Nicolas for guiding me in the mysterious and beautiful open source world. 
