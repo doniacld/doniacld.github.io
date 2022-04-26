@@ -2,7 +2,7 @@
 title: "Get In Touch"
 draft: false
 featured: true
-image: "images/profile.jpg"
+image: "images/profile_icon.jpg"
 layout: "about"
 
 ---
