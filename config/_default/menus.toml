@@ -29,9 +29,28 @@ weight = 3
 
 
 [[main]]
-name = "talks"
-url = "talks/"
+name = "contributions"
+url = "contributions/"
 weight = 4
+
+  [[main]]
+  parent= "contributions"
+  name = "Speaking"
+  url = "contributions/speaking"
+  weight = 1
+
+  [[main]]
+  parent= "contributions"
+  name = "Events"
+  url = "contributions/events"
+  weight = 2
+
+  [[main]]
+  parent= "contributions"
+  name = "Open Source"
+  url = "contributions/open-source"
+  weight = 2
+
 
 [[main]]
 name = "about"

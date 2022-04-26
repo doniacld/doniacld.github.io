@@ -4,7 +4,6 @@ draft: false
 featured: true
 image: "images/profile_icon.jpg"
 layout: "about"
-
 ---
 
 
