@@ -53,5 +53,9 @@ icon = "fab fa-linkedin"
 link = "https://linkedin.com/in/donia-chaiehloudj"
 
 [[social]]
+icon = "fab fa-github"
+link = "https://github.com/doniacld"
+
+[[social]]
 icon = "fab fa-medium"
 link = "https://doniacld.medium.com"
