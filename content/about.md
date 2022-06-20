@@ -1,6 +1,5 @@
 ---
 title: "About"
-image: "images/profile.jpeg"
 description: "Donia Chaiehloudj's Blog, Talking about Career, Go and OpenSource stuff"
 layout: "about"
 draft: false
