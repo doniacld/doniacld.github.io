@@ -10,20 +10,15 @@ weight = 1
 [[main]]
 name = "blog"
 url = "blog/"
-weight = 2
-
-[[main]]
-name = "category"
-url = "categories/"
 weight = 3
 
   [[main]]
-  parent= "category"
+  parent= "blog"
   name = "tech"
   url = "categories/tech"
 
   [[main]]
-  parent= "category"
+  parent= "blog"
   name = "career"
   url = "categories/career"
 
@@ -49,7 +44,7 @@ weight = 4
   parent= "contributions"
   name = "Open Source"
   url = "contributions/open-source"
-  weight = 2
+  weight = 3
 
 
 [[main]]
