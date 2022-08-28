@@ -1,6 +1,7 @@
 ---
 title: "About"
-description: "Donia Chaiehloudj's Blog, Talking about Career, Go and OpenSource stuff"
+image: "images/profile.jpeg"
+description: "this is meta description"
 layout: "about"
 draft: false
 ---
