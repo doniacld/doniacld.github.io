@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "name":"Tiny Hen",
+      "url":"https://github.com/doniacld/tiny-hen",
+      "desc":"Monitoring my hen house using TinyGo"
+    },
+    {
+      "name":"TinyGo exploration",
+      "url":"https://github.com/doniacld/tinygo-discovery",
+      "desc":"Sample Go codes for microcontrollers"
+    },
+    {
+      "name":"Google Developer Group",
+      "url":"https://gdg.community.dev/gdg-sophia-antipolis/",
+      "desc":"Running tech events for the local dev community"
+    },
+    {
+      "name":"TinyGo: Getting the upper hen",
+      "url":"https://github.com/doniacld/talks/tree/main/GopherConUK-2022",
+      "desc":"Presenting my TinyGo project to GopherCons"
+    }
+  ]
+}
