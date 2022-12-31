@@ -51,7 +51,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "https://0xdc.me/"
+            --baseURL "https://doniacld.github.io/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
