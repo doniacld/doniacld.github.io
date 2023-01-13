@@ -2,15 +2,6 @@
 title: Projects
 ---
 
-# Talks
-
-You can find my CFPs, slides and YouTube links on my [talks](https://github.com/doniacld/talks) github repository.  
-If you want to have a look, here are the replays:
-
-<aside>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BNdsDnrjx8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</aside>
-
 # Code contributions
 
 Since Hacktoberfest 2021, I began to contribute to open source projects:
