@@ -27,6 +27,3 @@ You can find my CFPs and slides on my [talks](https://github.com/doniacld/talks)
 # Honey, Let's Shrunk The Gophers! (TinyGo introduction), International Women's Day by Women Techmakers Berlin 2022
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2v91Rff4Ipk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-

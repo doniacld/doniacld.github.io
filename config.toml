@@ -20,25 +20,20 @@ name = "Writings"
 url = "/posts"
 weight = 2
 
-# [[menu.main]]
-# name = "Tags"
-# url = "/tags"
-# weight = 3
-
 [[menu.main]]
 name = "Talks"
 url = "/talks"
-weight = 4
+weight = 3
 
 [[menu.main]]
 name = "Projects"
 url = "/projects"
-weight = 5
+weight = 4
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 6
+weight = 5
 
 [markup]
 [markup.tableOfContents]
@@ -64,7 +59,7 @@ rss = true # generate rss feed. default value is false
 googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
 
 # Home page settings
-description = "Go, Cloud and Career writings"
+description = "Hi, welcome to my blog where you will find Go, cloud and career writings."
 mainSection = "posts" # your main section
 showAllPostsOnHomePage = true
 tagsOverview = true # show tags overview by default.
