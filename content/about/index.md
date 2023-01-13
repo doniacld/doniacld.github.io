@@ -18,6 +18,7 @@ When I am AFK, you can find me:
 Find me online: 
 - LinkedIn: https://linkedin.com/in/donia-chaiehloudj
 - Twitter: https://twitter.com/doniacld
+- Mastodon: https://hachyderm.io/@doniacld
 - GitHub: https://github.com/doniacld
 - Medium: https://medium.com/@doniacld
 

@@ -2,6 +2,15 @@
 title: Projects
 ---
 
+# Co-author of the book: Learn Go with Pocket-Sized Projects
+
+Co-authoring a book at Manning to teach Go with end to end projects with Aliénor Latour and Pascal Bertrand.  
+
+Early Access is available on [Manning website](https://www.manning.com/books/learn-go-with-pocket-sized-projects?utm_source=donia&utm_medium=affiliate&utm_campaign=book_latour_learn_1_5_23&utm_content=email). 
+
+![Book Learn Go With Pocket-Sized Projects](book_learn_go_with_pocket_sized_projects_meap.png)
+_Cover of the book Learn Go With Pocket-Sized Projects in MEAP_
+
 # Code contributions
 
 Since Hacktoberfest 2021, I began to contribute to open source projects:

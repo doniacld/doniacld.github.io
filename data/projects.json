@@ -1,6 +1,11 @@
 {
   "list": [
     {
+      "name":"Learn Go with Pocket-Sized Projects",
+      "url":"https://www.manning.com/books/learn-go-with-pocket-sized-projects?utm_source=donia&utm_medium=affiliate&utm_campaign=book_latour_learn_1_5_23&utm_content=email",
+      "desc":"Co-Authoring a book to teach Go with Aliénor Latour and Pascal Bertrand"
+    },
+    {
       "name":"Tiny Hen",
       "url":"https://github.com/doniacld/tiny-hen",
       "desc":"Monitoring my hen house using TinyGo"
