@@ -2,14 +2,14 @@
 title: Projects
 ---
 
-# Talks
+# Co-author of the book: Learn Go with Pocket-Sized Projects
 
-You can find my CFPs, slides and YouTube links on my [talks](https://github.com/doniacld/talks) github repository.  
-If you want to have a look, here are the replays:
+Co-authoring a book at Manning to teach Go with end to end projects with Aliénor Latour and Pascal Bertrand.  
 
-<aside>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BNdsDnrjx8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</aside>
+Early Access is available on [Manning website](https://www.manning.com/books/learn-go-with-pocket-sized-projects?utm_source=donia&utm_medium=affiliate&utm_campaign=book_latour_learn_1_5_23&utm_content=email). 
+
+![Book Learn Go With Pocket-Sized Projects](book_learn_go_with_pocket_sized_projects_meap.png)
+_Cover of the book Learn Go With Pocket-Sized Projects in MEAP_
 
 # Code contributions
 
