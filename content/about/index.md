@@ -9,7 +9,7 @@ I am Golang and open-source enthusiast striving to share my knowledge with other
 I am a Google Developer Group organiser, Women Techmaker ambassador and part of a local women in tech organisation called [WHAT06](https://what06.fr/).
 
 
-When I am AFK, you can find me:
+When I am AFK, you can find me:  
 🥾 Hiking on ⛰  
 🧵 Sewing wardrobe pieces  
 💃🏼 Swing dancing  
