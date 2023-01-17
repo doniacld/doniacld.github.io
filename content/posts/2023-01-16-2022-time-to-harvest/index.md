@@ -56,7 +56,7 @@ And it’s a win for me. Even though the community is not huge, I can say that I
 _Instant photos from the DevFest 2022 by the GDG Sophia-Antipolis_
 
 ## How to navigate the open-source world 🚢
-My first Hacktoberfest was in late 202. If you do not know what I am talking about, you can have a glance at my article 
+My first Hacktoberfest was in late 2022. If you do not know what I am talking about, you can have a glance at my article 
 [Changeblogging my first Hacktoberfest](https://doniacld.medium.com/change-blogging-my-first-hacktoberfest-2021-d5845dd791e8)
 I found it stressful at the beginning but rewarding. It was the opportunity to understand the codes of this new world, 
 discover new projects, learn how to enter an unknown project and some basics about open-source (read CONTRIBUTION.md, respect issues process and pull requests).
