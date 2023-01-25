@@ -51,7 +51,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "https://doniacld.github.io/"
+            --baseURL "https://doniacld.com"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
@@ -61,7 +61,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: "https://doniacld.github.io/"
+      url: "https://doniacld.com"
     runs-on: ubuntu-latest
     needs: build
     steps:
