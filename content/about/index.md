@@ -24,3 +24,6 @@ Find me online:
 
 ![Me with The Gopher](me_with_the_gopher.png)
 _Myself with a big Gopher from Buf at GopherCon US 2022_
+
+# 🎧 My playlist while programming
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4lzki4B3AqboVzscQSn0Ii?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
