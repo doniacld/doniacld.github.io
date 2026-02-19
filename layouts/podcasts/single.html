@@ -1,0 +1,36 @@
+{{ define "main" }}
+<div class="container">
+  <article class="article">
+    <header class="article__header">
+      <h1 class="article__title">{{ .Title }}</h1>
+      <div class="article__meta">
+        {{ with .Params.podcast }}<span>{{ . }}</span>{{ end }}
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      </div>
+      {{ with .Params.tags }}
+      <div class="tags" style="justify-content: center; margin-top: var(--space-4);">
+        {{ range . }}
+        <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">{{ . }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+    </header>
+    
+    {{/* Links */}}
+    {{ if or .Params.episode_url .Params.source_post }}
+    <div style="display: flex; gap: var(--space-4); justify-content: center; margin: var(--space-8) 0; flex-wrap: wrap;">
+      {{ with .Params.episode_url }}
+      <a href="{{ . }}" class="btn btn--primary" target="_blank" rel="noopener">Listen to Episode</a>
+      {{ end }}
+      {{ with .Params.source_post }}
+      <a href="{{ . }}" class="btn btn--secondary">Read Related Post</a>
+      {{ end }}
+    </div>
+    {{ end }}
+    
+    <div class="article__content">
+      {{ .Content }}
+    </div>
+  </article>
+</div>
+{{ end }}

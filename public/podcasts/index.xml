@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcasts on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/podcasts/</link>
+    <description>Recent content in Podcasts on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <atom:link href="http://localhost:1313/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WHAT06: Parcoursup 2026 - Conseils pour faire les bons choix d&#39;orientation</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep04-parcoursup/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep04-parcoursup/</guid>
+      <description>Saison 1 Épisode 4 - Karine Lafont, experte Parcoursup, partage son retour d&amp;rsquo;expérience et ses meilleurs conseils pour aborder Parcoursup sereinement.</description>
+    </item>
+    <item>
+      <title>WHAT06: Iryna et Louise - La team UX de marraine-filleule</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep03-iryna-louise/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep03-iryna-louise/</guid>
+      <description>Saison 1 Épisode 3 - L&amp;rsquo;histoire d&amp;rsquo;Iryna et Louise, un binôme marraine–filleule formé grâce à l&amp;rsquo;appli Tech4Elles autour de l&amp;rsquo;UX/UI design.</description>
+    </item>
+    <item>
+      <title>WHAT06: Code, crash et persévérance</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep02-code-crash/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep02-code-crash/</guid>
+      <description>Saison 1 Épisode 2 - Dans les coulisses de l&amp;rsquo;appli Tech4Elles avec Ouiza &amp;amp; Y-Meuil. Comment décider ce qui compte vraiment pour les filleules et les marraines.</description>
+    </item>
+    <item>
+      <title>WHAT06: Les poumons de Tech4Elles, l&#39;application de mentoring</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep01-tech4elles/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep01-tech4elles/</guid>
+      <description>Saison 1 Épisode 1 - Comment tout a commencé ? Avec Valérie Guillon, Maëva Cecchi et Laure Gajetti, celles qui ont fait battre le cœur du projet Tech4Elles.</description>
+    </item>
+    <item>
+      <title>eBPF Hookpoint Gotchas</title>
+      <link>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</guid>
+      <description>Episode 203 of eCHO where we discuss eBPF hookpoint gotchas and common pitfalls when working with eBPF programs.</description>
+    </item>
+    <item>
+      <title>eBPF Summit Hackathon Edition</title>
+      <link>http://localhost:1313/podcasts/echo-199-ebpf-summit-hackathon/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-199-ebpf-summit-hackathon/</guid>
+      <description>Episode 199 where Liz Rice and I reveal the winners of the eBPF Summit Hackathon and discuss submission highlights with special guests.</description>
+    </item>
+    <item>
+      <title>Open Source Inclusion - Merge Forward Initiative</title>
+      <link>http://localhost:1313/podcasts/techstrong-tv-kubecon-2025/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/techstrong-tv-kubecon-2025/</guid>
+      <description>Discussing Merge Forward, an initiative focused on strengthening diversity and inclusion across open source communities, with Troy Connor at KubeCon NA 2025.</description>
+    </item>
+    <item>
+      <title>Benchmarks Don&#39;t Lie: The Real Cost of Security Agents</title>
+      <link>http://localhost:1313/podcasts/echo-193-benchmarks-security-agents/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-193-benchmarks-security-agents/</guid>
+      <description>Episode 193 where I host Henrik Rexed to discuss his benchmarks on runtime security agents and the real cost of eBPF-based security solutions.</description>
+    </item>
+    <item>
+      <title>Être une femme dans la Tech</title>
+      <link>http://localhost:1313/podcasts/muscle-ta-repartie-2025/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/muscle-ta-repartie-2025/</guid>
+      <description>Partage de mon expérience en tant que femme dans la Tech et mes conseils pour la féminiser. Discussion sur WHAT06, les situations rencontrées et comment réagir.</description>
+    </item>
+    <item>
+      <title>Mastering Hardware Programming, Go, &amp; Networking in Embedded Systems</title>
+      <link>http://localhost:1313/podcasts/codative-2024/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/codative-2024/</guid>
+      <description>Discussing my journey in hardware programming, why Go is a game-changer for embedded development, and tackling networking challenges in IoT.</description>
+    </item>
+    <item>
+      <title>Je vois des Gophers partout</title>
+      <link>http://localhost:1313/podcasts/tranches-de-tech-2024/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/tranches-de-tech-2024/</guid>
+      <description>Épisode 12 du podcast Tranches de Tech où je discute de Go, TinyGo, mon livre Manning, eBPF, Cilium, Docker et les conférences tech.</description>
+    </item>
+    <item>
+      <title>Working in regulated industries, QA to SWE, and public speaking</title>
+      <link>http://localhost:1313/podcasts/glich-stream-2024/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/glich-stream-2024/</guid>
+      <description>Discussing my transition from QA to software development, working in aerospace, moving to startups, contributing to open source, public speaking, and co-authoring a Go book.</description>
+    </item>
+    <item>
+      <title>Go, Community, and Learning</title>
+      <link>http://localhost:1313/podcasts/ardan-labs-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/ardan-labs-2024/</guid>
+      <description>Discussing my diverse career journey, from image processing and electronics to Go development in the cloud-native space, community leadership, and balancing career with motherhood.</description>
+    </item>
+    <item>
+      <title>So many Go books, so little time!</title>
+      <link>http://localhost:1313/podcasts/cup-o-go-2023/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/cup-o-go-2023/</guid>
+      <description>Interview with Jonathan Hall and Adelina Simion about my journey, working at Isovalent on Cilium, and co-authoring Learn Go with Pocket-Sized Projects.</description>
+    </item>
+    <item>
+      <title>Learn Go with Pocket-Sized Projects</title>
+      <link>http://localhost:1313/podcasts/bug-hunters-cafe-2023/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/bug-hunters-cafe-2023/</guid>
+      <description>With my co-authors Aliénor Latour and Pascal Bertrand, we discuss what makes Go tick and share strange bugs we&amp;rsquo;ve encountered across our diverse experiences as software engineers.</description>
+    </item>
+  </channel>
+</rss>

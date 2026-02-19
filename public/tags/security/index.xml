@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/security/</link>
+    <description>Recent content in Security on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Squire to Network Knight: Defending the Kubernetes Castle the Cloud Native Way</title>
+      <link>http://localhost:1313/talks/cloud-native-university-2025/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/cloud-native-university-2025/</guid>
+      <description>A journey from beginner to expert in Kubernetes network security using Cilium and cloud native tools - from wide-open cluster to layered defense.</description>
+    </item>
+    <item>
+      <title>Benchmarks Don&#39;t Lie: The Real Cost of Security Agents</title>
+      <link>http://localhost:1313/podcasts/echo-193-benchmarks-security-agents/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-193-benchmarks-security-agents/</guid>
+      <description>Episode 193 where I host Henrik Rexed to discuss his benchmarks on runtime security agents and the real cost of eBPF-based security solutions.</description>
+    </item>
+    <item>
+      <title>Sécurise ton réseau avec la magie d&#39;eBPF</title>
+      <link>http://localhost:1313/talks/securing-networks-ebpf/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/securing-networks-ebpf/</guid>
+      <description>Comment utiliser eBPF pour sécuriser les réseaux - filtrage, monitoring et protection de l&amp;rsquo;infrastructure.</description>
+    </item>
+  </channel>
+</rss>

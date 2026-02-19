@@ -1,0 +1,100 @@
+<header class="site-header">
+  <div class="container container--wide">
+    <div class="site-header__inner">
+      <div class="site-header__left">
+        <a href="{{ .Site.BaseURL }}" class="site-title">
+          <img src="/images/avatar.png" alt="Donia" class="site-logo" />
+          <span>doniacld</span>
+        </a>
+        <button class="theme-toggle" aria-label="Toggle dark mode">
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+        </button>
+      </div>
+      
+      <nav class="site-nav" aria-label="Main navigation">
+        <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Toggle navigation">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+        </button>
+        
+        <ul class="site-nav__list" id="nav-menu">
+          {{- range .Site.Menus.main }}
+          <li>
+            <a href="{{ .URL }}" class="site-nav__link"{{ if $.IsMenuCurrent "main" . }} aria-current="true"{{ end }}>
+              {{ .Name }}
+            </a>
+          </li>
+          {{- end }}
+        </ul>
+        
+        <button type="button" class="search-trigger" aria-label="Search" aria-expanded="false" aria-controls="search-panel">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </button>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<!-- Global Search Panel -->
+<div id="search-panel" class="search-panel" hidden>
+  <div class="search-panel__overlay"></div>
+  <div class="search-panel__content">
+    <div class="search-panel__header">
+      <div class="search-panel__input-wrapper">
+        <svg class="search-panel__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input 
+          type="search" 
+          id="global-search-input" 
+          class="search-panel__input" 
+          placeholder="Search content..." 
+          aria-label="Search content"
+          autocomplete="off"
+        >
+        <button type="button" class="search-panel__close" aria-label="Close search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+      
+      <!-- Tags -->
+      <div class="search-panel__tags">
+        <span class="search-panel__tags-label">Browse by tag:</span>
+        <a href="/tags/" class="search-panel__tags-link">View all tags →</a>
+      </div>
+    </div>
+    
+    <div class="search-panel__results" id="search-results">
+      <div class="search-panel__hint">
+        <p>Type to search across all content</p>
+        <div class="search-panel__shortcuts">
+          <span><kbd>↵</kbd> to select</span>
+          <span><kbd>esc</kbd> to close</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

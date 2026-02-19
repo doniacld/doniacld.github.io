@@ -1,0 +1,190 @@
+<script>
+(function() {
+  // Theme toggle
+  const themeToggle = document.querySelector('.theme-toggle');
+  
+  function setTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem('theme', theme);
+  }
+  
+  themeToggle.addEventListener('click', function() {
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    setTheme(newTheme);
+  });
+  
+  // Respect system preference changes
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+    if (!localStorage.getItem('theme')) {
+      setTheme(e.matches ? 'dark' : 'light');
+    }
+  });
+  
+  // Mobile nav toggle
+  const navToggle = document.querySelector('.nav-toggle');
+  const navMenu = document.querySelector('.site-nav__list');
+  
+  if (navToggle && navMenu) {
+    navToggle.addEventListener('click', function() {
+      const expanded = navToggle.getAttribute('aria-expanded') === 'true';
+      navToggle.setAttribute('aria-expanded', !expanded);
+      navMenu.classList.toggle('is-open');
+    });
+    
+    // Close menu on escape
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && navMenu.classList.contains('is-open')) {
+        navToggle.setAttribute('aria-expanded', 'false');
+        navMenu.classList.remove('is-open');
+        navToggle.focus();
+      }
+    });
+  }
+  
+  // Global Search
+  const searchTrigger = document.querySelector('.search-trigger');
+  const searchPanel = document.getElementById('search-panel');
+  const searchInput = document.getElementById('global-search-input');
+  const searchResults = document.getElementById('search-results');
+  const searchClose = document.querySelector('.search-panel__close');
+  const searchOverlay = document.querySelector('.search-panel__overlay');
+  
+  let searchIndex = null;
+  let searchTimeout = null;
+  
+  async function loadSearchIndex() {
+    if (searchIndex) return searchIndex;
+    try {
+      const response = await fetch('/index.json');
+      searchIndex = await response.json();
+      return searchIndex;
+    } catch (error) {
+      console.error('Failed to load search index:', error);
+      return [];
+    }
+  }
+  
+  function openSearch() {
+    if (!searchPanel || !searchInput) return;
+    searchPanel.hidden = false;
+    searchInput.focus();
+    document.body.style.overflow = 'hidden';
+    loadSearchIndex();
+  }
+  
+  function closeSearch() {
+    if (!searchPanel || !searchInput || !searchResults) return;
+    searchPanel.hidden = true;
+    searchInput.value = '';
+    document.body.style.overflow = '';
+    searchResults.innerHTML = `
+      <div class="search-panel__hint">
+        <p>Type to search across all content</p>
+        <div class="search-panel__shortcuts">
+          <span><kbd>↵</kbd> to select</span>
+          <span><kbd>esc</kbd> to close</span>
+        </div>
+      </div>
+    `;
+  }
+  
+  function performSearch(query) {
+    if (!searchIndex || !query.trim()) {
+      searchResults.innerHTML = `
+        <div class="search-panel__hint">
+          <p>Type to search across all content</p>
+          <div class="search-panel__shortcuts">
+            <span><kbd>↵</kbd> to select</span>
+            <span><kbd>esc</kbd> to close</span>
+          </div>
+        </div>
+      `;
+      return;
+    }
+    
+    const q = query.toLowerCase();
+    const results = searchIndex.filter(item => 
+      item.title.toLowerCase().includes(q) || 
+      (item.summary && item.summary.toLowerCase().includes(q)) ||
+      (item.tags && item.tags.some(tag => tag.toLowerCase().includes(q)))
+    );
+    
+    if (results.length === 0) {
+      searchResults.innerHTML = `
+        <div class="search-panel__no-results">
+          <p>No results found for "${query}"</p>
+        </div>
+      `;
+      return;
+    }
+    
+    const sectionLabels = {
+      blog: 'Blog',
+      talks: 'Talk',
+      podcasts: 'Podcast',
+      projects: 'Project',
+      about: 'About'
+    };
+    
+    searchResults.innerHTML = `
+      <ul class="search-panel__results-list">
+        ${results.slice(0, 10).map(item => `
+          <li>
+            <a href="${item.url}" class="search-result">
+              <div class="search-result__section">${sectionLabels[item.section] || item.section}</div>
+              <div class="search-result__title">${highlightMatch(item.title, query)}</div>
+              ${item.summary ? `<div class="search-result__summary">${highlightMatch(item.summary, query)}</div>` : ''}
+            </a>
+          </li>
+        `).join('')}
+      </ul>
+      ${results.length > 10 ? `<p style="text-align: center; color: var(--color-muted); font-size: var(--font-size-sm); padding-top: var(--space-4);">Showing 10 of ${results.length} results</p>` : ''}
+    `;
+  }
+  
+  function highlightMatch(text, query) {
+    if (!query) return text;
+    const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+    return text.replace(regex, '<mark>$1</mark>');
+  }
+  
+  // Event listeners
+  if (searchTrigger) {
+    searchTrigger.addEventListener('click', openSearch);
+  }
+  
+  if (searchClose) {
+    searchClose.addEventListener('click', closeSearch);
+  }
+  
+  if (searchOverlay) {
+    searchOverlay.addEventListener('click', closeSearch);
+  }
+  
+  if (searchInput) {
+    searchInput.addEventListener('input', function() {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => performSearch(this.value), 150);
+    });
+  }
+  
+  // Keyboard shortcuts
+  document.addEventListener('keydown', function(e) {
+    // Open search with Cmd/Ctrl + K
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault();
+      if (searchPanel.hidden) {
+        openSearch();
+      } else {
+        closeSearch();
+      }
+    }
+    
+    // Close search with Escape
+    if (e.key === 'Escape' && !searchPanel.hidden) {
+      closeSearch();
+    }
+  });
+})();
+</script>

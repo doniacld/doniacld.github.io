@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open-Source on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/open-source/</link>
+    <description>Recent content in Open-Source on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Source Inclusion - Merge Forward Initiative</title>
+      <link>http://localhost:1313/podcasts/techstrong-tv-kubecon-2025/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/techstrong-tv-kubecon-2025/</guid>
+      <description>Discussing Merge Forward, an initiative focused on strengthening diversity and inclusion across open source communities, with Troy Connor at KubeCon NA 2025.</description>
+    </item>
+    <item>
+      <title>Working in regulated industries, QA to SWE, and public speaking</title>
+      <link>http://localhost:1313/podcasts/glich-stream-2024/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/glich-stream-2024/</guid>
+      <description>Discussing my transition from QA to software development, working in aerospace, moving to startups, contributing to open source, public speaking, and co-authoring a Go book.</description>
+    </item>
+  </channel>
+</rss>

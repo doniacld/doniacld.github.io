@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Community on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/community/</link>
+    <description>Recent content in Community on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>eBPF Summit Hackathon Edition</title>
+      <link>http://localhost:1313/podcasts/echo-199-ebpf-summit-hackathon/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-199-ebpf-summit-hackathon/</guid>
+      <description>Episode 199 where Liz Rice and I reveal the winners of the eBPF Summit Hackathon and discuss submission highlights with special guests.</description>
+    </item>
+    <item>
+      <title>Open Source Inclusion - Merge Forward Initiative</title>
+      <link>http://localhost:1313/podcasts/techstrong-tv-kubecon-2025/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/techstrong-tv-kubecon-2025/</guid>
+      <description>Discussing Merge Forward, an initiative focused on strengthening diversity and inclusion across open source communities, with Troy Connor at KubeCon NA 2025.</description>
+    </item>
+    <item>
+      <title>Cilium&#39;s Honeycomb: Cultivating Technical Excellence in a Diverse Ecosystem</title>
+      <link>http://localhost:1313/talks/cilium-honeycomb-kubecon-2025/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/cilium-honeycomb-kubecon-2025/</guid>
+      <description>Sponsored keynote celebrating the collective intelligence behind Cilium&amp;rsquo;s success - diverse use cases, users, and contributors cultivating technical excellence.</description>
+    </item>
+    <item>
+      <title>Go, Community, and Learning</title>
+      <link>http://localhost:1313/podcasts/ardan-labs-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/ardan-labs-2024/</guid>
+      <description>Discussing my diverse career journey, from image processing and electronics to Go development in the cloud-native space, community leadership, and balancing career with motherhood.</description>
+    </item>
+    <item>
+      <title>Behind the scenes of the GDG Sophia-Antipolis</title>
+      <link>http://localhost:1313/blog/2022-05-11-behind-the-scenes-gdg-sophia-antipolis/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-05-11-behind-the-scenes-gdg-sophia-antipolis/</guid>
+      <description>A look behind the scenes of founding and running the Google Developer Group Sophia-Antipolis - building a tech community in the south of France.</description>
+    </item>
+    <item>
+      <title>Google Developer Group Sophia-Antipolis</title>
+      <link>http://localhost:1313/projects/gdg-sophia-antipolis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/gdg-sophia-antipolis/</guid>
+      <description>Running tech events for the local developer community in the south of France - monthly talks, workshops, and community building.</description>
+    </item>
+  </channel>
+</rss>

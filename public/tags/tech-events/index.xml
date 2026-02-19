@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech-Events on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/tech-events/</link>
+    <description>Recent content in Tech-Events on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tech-events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Developer Group Sophia-Antipolis</title>
+      <link>http://localhost:1313/projects/gdg-sophia-antipolis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/gdg-sophia-antipolis/</guid>
+      <description>Running tech events for the local developer community in the south of France - monthly talks, workshops, and community building.</description>
+    </item>
+  </channel>
+</rss>

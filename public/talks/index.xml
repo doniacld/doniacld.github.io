@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/talks/</link>
+    <description>Recent content in Talks on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>eBPF Hookpoint Gotchas: Why Your Program Fires (or Fails) in Unexpected Ways</title>
+      <link>http://localhost:1313/talks/ebpf-hookpoint-gotchas-fosdem-2026/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/ebpf-hookpoint-gotchas-fosdem-2026/</guid>
+      <description>Deep dive into eBPF hookpoints - kprobes/fentry, tracepoints, and uprobes - exposing internal kernel mechanics that cause surprising edge cases.</description>
+    </item>
+    <item>
+      <title>From Squire to Network Knight: Defending the Kubernetes Castle the Cloud Native Way</title>
+      <link>http://localhost:1313/talks/cloud-native-university-2025/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/cloud-native-university-2025/</guid>
+      <description>A journey from beginner to expert in Kubernetes network security using Cilium and cloud native tools - from wide-open cluster to layered defense.</description>
+    </item>
+    <item>
+      <title>Aladdin &amp; the eBPF Lamp: Travel in the Kernel</title>
+      <link>http://localhost:1313/talks/aladdin-ebpf-lamp/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/aladdin-ebpf-lamp/</guid>
+      <description>A magical journey into the Linux kernel with eBPF - discovering the power of kernel observability and networking.</description>
+    </item>
+    <item>
+      <title>eBPF with Go: The Foundation of Modern Kubernetes Networking</title>
+      <link>http://localhost:1313/talks/ebpf-go-rivieradev-2024/</link>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/ebpf-go-rivieradev-2024/</guid>
+      <description>Demystifying eBPF by exploring how Go makes it accessible, with practical demos of tracing, XDP packet filtering, and Cilium networking.</description>
+    </item>
+    <item>
+      <title>Cilium&#39;s Honeycomb: Cultivating Technical Excellence in a Diverse Ecosystem</title>
+      <link>http://localhost:1313/talks/cilium-honeycomb-kubecon-2025/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/cilium-honeycomb-kubecon-2025/</guid>
+      <description>Sponsored keynote celebrating the collective intelligence behind Cilium&amp;rsquo;s success - diverse use cases, users, and contributors cultivating technical excellence.</description>
+    </item>
+    <item>
+      <title>An Intro to eBPF with Go: The Foundation of Modern Kubernetes Networking</title>
+      <link>http://localhost:1313/talks/ebpf-go-fosdem-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/ebpf-go-fosdem-2025/</guid>
+      <description>Demystifying eBPF by exploring how Go makes it accessible - with practical demos of tracing, XDP packet filtering, and Cilium networking.</description>
+    </item>
+    <item>
+      <title>eBPF and Go: The Core of Modern Kubernetes Networking</title>
+      <link>http://localhost:1313/talks/ebpf-go-kubernetes-networking/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/ebpf-go-kubernetes-networking/</guid>
+      <description>Exploring how eBPF and Cilium are revolutionising Kubernetes networking - improving observability, security, and scalability.</description>
+    </item>
+    <item>
+      <title>Build a Glamorous Habit Tracker Using Charm CLI</title>
+      <link>http://localhost:1313/talks/charm-cli-habit-tracker/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/charm-cli-habit-tracker/</guid>
+      <description>Learn to build beautiful terminal applications with Charm CLI tools - creating a habit tracker with style using Bubble Tea, Lip Gloss, and more.</description>
+    </item>
+    <item>
+      <title>Sécurise ton réseau avec la magie d&#39;eBPF</title>
+      <link>http://localhost:1313/talks/securing-networks-ebpf/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/securing-networks-ebpf/</guid>
+      <description>Comment utiliser eBPF pour sécuriser les réseaux - filtrage, monitoring et protection de l&amp;rsquo;infrastructure.</description>
+    </item>
+    <item>
+      <title>À la découverte de Go</title>
+      <link>http://localhost:1313/talks/decouverte-go/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/decouverte-go/</guid>
+      <description>Une introduction au langage Go - découverte des fondamentaux, démo en direct, et networking autour d&amp;rsquo;un verre.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen</title>
+      <link>http://localhost:1313/talks/tinygo-gowest-2022/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gowest-2022/</guid>
+      <description>A practical introduction to TinyGo through a real-world project - monitoring a hen house with microcontrollers, sensors, and Grafana dashboards.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen</title>
+      <link>http://localhost:1313/talks/tinygo-gophercon-us-2022/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gophercon-us-2022/</guid>
+      <description>A practical introduction to TinyGo through a real-world project - monitoring a hen house with microcontrollers, sensors, and Grafana dashboards.</description>
+    </item>
+    <item>
+      <title>Do&#39;s and Don&#39;ts moving to Go microservices architecture</title>
+      <link>http://localhost:1313/talks/microservices-containerdays-2022/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/microservices-containerdays-2022/</guid>
+      <description>Best practices and lessons learned when transitioning to a Go microservices architecture - what to do and what to avoid.</description>
+    </item>
+    <item>
+      <title>Do&#39;s and Don&#39;ts moving to Go microservices architecture</title>
+      <link>http://localhost:1313/talks/microservices-ewit-2022/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/microservices-ewit-2022/</guid>
+      <description>Best practices and lessons learned when transitioning to a Go microservices architecture - what to do and what to avoid.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen (Long Version)</title>
+      <link>http://localhost:1313/talks/tinygo-gophercon-uk-2022/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gophercon-uk-2022/</guid>
+      <description>An extended deep-dive into TinyGo through building a hen house monitoring system - covering hardware setup, sensor integration, and data visualization.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen</title>
+      <link>http://localhost:1313/talks/tinygo-gophercon-europe-2022/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gophercon-europe-2022/</guid>
+      <description>My first major conference talk! A practical introduction to TinyGo through monitoring my hen house with microcontrollers and sensors.</description>
+    </item>
+    <item>
+      <title>Honey, Let&#39;s Shrink The Gophers! (TinyGo Introduction)</title>
+      <link>http://localhost:1313/talks/tinygo-intro-wtm-berlin-2022/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-intro-wtm-berlin-2022/</guid>
+      <description>An introduction to TinyGo for beginners - my first ever tech talk, delivered remotely for Women Techmakers Berlin.</description>
+    </item>
+  </channel>
+</rss>

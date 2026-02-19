@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product Design on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/product-design/</link>
+    <description>Recent content in Product Design on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Tue, 20 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/product-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WHAT06: Code, crash et persévérance</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep02-code-crash/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep02-code-crash/</guid>
+      <description>Saison 1 Épisode 2 - Dans les coulisses de l&amp;rsquo;appli Tech4Elles avec Ouiza &amp;amp; Y-Meuil. Comment décider ce qui compte vraiment pour les filleules et les marraines.</description>
+    </item>
+  </channel>
+</rss>

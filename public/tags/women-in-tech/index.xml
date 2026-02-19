@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Women in Tech on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/women-in-tech/</link>
+    <description>Recent content in Women in Tech on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/women-in-tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WHAT06: Parcoursup 2026 - Conseils pour faire les bons choix d&#39;orientation</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep04-parcoursup/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep04-parcoursup/</guid>
+      <description>Saison 1 Épisode 4 - Karine Lafont, experte Parcoursup, partage son retour d&amp;rsquo;expérience et ses meilleurs conseils pour aborder Parcoursup sereinement.</description>
+    </item>
+    <item>
+      <title>WHAT06: Iryna et Louise - La team UX de marraine-filleule</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep03-iryna-louise/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep03-iryna-louise/</guid>
+      <description>Saison 1 Épisode 3 - L&amp;rsquo;histoire d&amp;rsquo;Iryna et Louise, un binôme marraine–filleule formé grâce à l&amp;rsquo;appli Tech4Elles autour de l&amp;rsquo;UX/UI design.</description>
+    </item>
+    <item>
+      <title>WHAT06: Code, crash et persévérance</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep02-code-crash/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep02-code-crash/</guid>
+      <description>Saison 1 Épisode 2 - Dans les coulisses de l&amp;rsquo;appli Tech4Elles avec Ouiza &amp;amp; Y-Meuil. Comment décider ce qui compte vraiment pour les filleules et les marraines.</description>
+    </item>
+    <item>
+      <title>WHAT06: Les poumons de Tech4Elles, l&#39;application de mentoring</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep01-tech4elles/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep01-tech4elles/</guid>
+      <description>Saison 1 Épisode 1 - Comment tout a commencé ? Avec Valérie Guillon, Maëva Cecchi et Laure Gajetti, celles qui ont fait battre le cœur du projet Tech4Elles.</description>
+    </item>
+    <item>
+      <title>Être une femme dans la Tech</title>
+      <link>http://localhost:1313/podcasts/muscle-ta-repartie-2025/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/muscle-ta-repartie-2025/</guid>
+      <description>Partage de mon expérience en tant que femme dans la Tech et mes conseils pour la féminiser. Discussion sur WHAT06, les situations rencontrées et comment réagir.</description>
+    </item>
+    <item>
+      <title>eBPF and Go: The Core of Modern Kubernetes Networking</title>
+      <link>http://localhost:1313/talks/ebpf-go-kubernetes-networking/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/ebpf-go-kubernetes-networking/</guid>
+      <description>Exploring how eBPF and Cilium are revolutionising Kubernetes networking - improving observability, security, and scalability.</description>
+    </item>
+    <item>
+      <title>Sécurise ton réseau avec la magie d&#39;eBPF</title>
+      <link>http://localhost:1313/talks/securing-networks-ebpf/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/securing-networks-ebpf/</guid>
+      <description>Comment utiliser eBPF pour sécuriser les réseaux - filtrage, monitoring et protection de l&amp;rsquo;infrastructure.</description>
+    </item>
+    <item>
+      <title>Do&#39;s and Don&#39;ts moving to Go microservices architecture</title>
+      <link>http://localhost:1313/talks/microservices-ewit-2022/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/microservices-ewit-2022/</guid>
+      <description>Best practices and lessons learned when transitioning to a Go microservices architecture - what to do and what to avoid.</description>
+    </item>
+    <item>
+      <title>Honey, Let&#39;s Shrink The Gophers! (TinyGo Introduction)</title>
+      <link>http://localhost:1313/talks/tinygo-intro-wtm-berlin-2022/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-intro-wtm-berlin-2022/</guid>
+      <description>An introduction to TinyGo for beginners - my first ever tech talk, delivered remotely for Women Techmakers Berlin.</description>
+    </item>
+    <item>
+      <title>My Top 5 Women Motivational Speakers in Cloud-Native Development</title>
+      <link>http://localhost:1313/posts/2021-11-23-top-5-women-cloud-native-dev/</link>
+      <pubDate>Tue, 23 Nov 2021 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2021-11-23-top-5-women-cloud-native-dev/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;top-5-women-in-cloud.png&#34; alt=&#34;Top 5 Women In Tech&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;They are CNCF ambassadors, Docker captains, or AWS heroes. The &lt;strong&gt;women in tech are the game-changers of cloud-native development&lt;/strong&gt;, sharing their knowledge about containers, Kubernetes, Docker, or DevOps topics. They inspire the new generation of girls entering into the STEM universe.&lt;/p&gt;&#xA;&lt;p&gt;Diversity is crucial in a successful company by bringing different perspectives to solve a problem, understand all customers and overall coming up with the right solutions to challenges.&lt;br&gt;&#xA;We find many organizations preaching the importance of having female figures to identify and inspire young girls (meaning less than 18 yo) to venture into tech paths.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Top 5 Women Motivational Speakers in Cloud-Native Development</title>
+      <link>http://localhost:1313/blog/2021-11-23-top-5-women-cloud-native-dev/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2021-11-23-top-5-women-cloud-native-dev/</guid>
+      <description>Bringing the importance of role models and sharing my top 5 women speakers in cloud-native development - CNCF ambassadors, Docker captains, and AWS heroes inspiring the next generation.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+{{- $pages := slice -}}
+{{- range where .Site.RegularPages "Section" "ne" "" -}}
+  {{- $summary := "" -}}
+  {{- if .Params.summary -}}
+    {{- $summary = .Params.summary -}}
+  {{- else -}}
+    {{- $summary = .Summary | plainify | truncate 150 -}}
+  {{- end -}}
+  {{- $tags := slice -}}
+  {{- if .Params.tags -}}
+    {{- $tags = .Params.tags -}}
+  {{- end -}}
+  {{- $pages = $pages | append (dict 
+    "title" .Title 
+    "url" .Permalink 
+    "section" .Section 
+    "summary" $summary
+    "tags" $tags
+    "date" (.Date.Format "2006-01-02")
+  ) -}}
+{{- end -}}
+{{- $pages | jsonify -}}

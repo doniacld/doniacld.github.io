@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cloud-Native on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/cloud-native/</link>
+    <description>Recent content in Cloud-Native on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Thu, 17 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cloud-native/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cilium&#39;s Honeycomb: Cultivating Technical Excellence in a Diverse Ecosystem</title>
+      <link>http://localhost:1313/talks/cilium-honeycomb-kubecon-2025/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/cilium-honeycomb-kubecon-2025/</guid>
+      <description>Sponsored keynote celebrating the collective intelligence behind Cilium&amp;rsquo;s success - diverse use cases, users, and contributors cultivating technical excellence.</description>
+    </item>
+    <item>
+      <title>Go, Community, and Learning</title>
+      <link>http://localhost:1313/podcasts/ardan-labs-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/ardan-labs-2024/</guid>
+      <description>Discussing my diverse career journey, from image processing and electronics to Go development in the cloud-native space, community leadership, and balancing career with motherhood.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,9 @@
+# Redirects from old URLs to new structure
+
+# Blog posts - redirect /posts/ to /blog/
+/posts/*  /blog/:splat  301
+
+# Legacy single pages
+/talks/index.html  /talks/  301
+/projects/index.html  /projects/  301
+/about/index.html  /about/  301

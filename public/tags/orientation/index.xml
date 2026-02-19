@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orientation on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/orientation/</link>
+    <description>Recent content in Orientation on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/orientation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WHAT06: Parcoursup 2026 - Conseils pour faire les bons choix d&#39;orientation</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep04-parcoursup/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep04-parcoursup/</guid>
+      <description>Saison 1 Épisode 4 - Karine Lafont, experte Parcoursup, partage son retour d&amp;rsquo;expérience et ses meilleurs conseils pour aborder Parcoursup sereinement.</description>
+    </item>
+  </channel>
+</rss>

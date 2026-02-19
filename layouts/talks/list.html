@@ -1,0 +1,14 @@
+{{ define "main" }}
+<div class="container container--wide">
+  <header class="page-header">
+    <h1 class="page-header__title">Talks</h1>
+    {{ with .Content }}<div class="page-header__content">{{ . }}</div>{{ end }}
+  </header>
+  
+  <div class="card-grid">
+    {{ range .Pages.ByDate.Reverse }}
+    {{ partial "card-talk.html" . }}
+    {{ end }}
+  </div>
+</div>
+{{ end }}

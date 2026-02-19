@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EBPF on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/ebpf/</link>
+    <description>Recent content in EBPF on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ebpf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>eBPF Hookpoint Gotchas: Why Your Program Fires (or Fails) in Unexpected Ways</title>
+      <link>http://localhost:1313/talks/ebpf-hookpoint-gotchas-fosdem-2026/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/ebpf-hookpoint-gotchas-fosdem-2026/</guid>
+      <description>Deep dive into eBPF hookpoints - kprobes/fentry, tracepoints, and uprobes - exposing internal kernel mechanics that cause surprising edge cases.</description>
+    </item>
+    <item>
+      <title>eBPF Hookpoint Gotchas</title>
+      <link>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</guid>
+      <description>Episode 203 of eCHO where we discuss eBPF hookpoint gotchas and common pitfalls when working with eBPF programs.</description>
+    </item>
+    <item>
+      <title>eBPF Summit Hackathon Edition</title>
+      <link>http://localhost:1313/podcasts/echo-199-ebpf-summit-hackathon/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-199-ebpf-summit-hackathon/</guid>
+      <description>Episode 199 where Liz Rice and I reveal the winners of the eBPF Summit Hackathon and discuss submission highlights with special guests.</description>
+    </item>
+    <item>
+      <title>Aladdin &amp; the eBPF Lamp: Travel in the Kernel</title>
+      <link>http://localhost:1313/talks/aladdin-ebpf-lamp/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/aladdin-ebpf-lamp/</guid>
+      <description>A magical journey into the Linux kernel with eBPF - discovering the power of kernel observability and networking.</description>
+    </item>
+    <item>
+      <title>Benchmarks Don&#39;t Lie: The Real Cost of Security Agents</title>
+      <link>http://localhost:1313/podcasts/echo-193-benchmarks-security-agents/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-193-benchmarks-security-agents/</guid>
+      <description>Episode 193 where I host Henrik Rexed to discuss his benchmarks on runtime security agents and the real cost of eBPF-based security solutions.</description>
+    </item>
+    <item>
+      <title>eBPF with Go: The Foundation of Modern Kubernetes Networking</title>
+      <link>http://localhost:1313/talks/ebpf-go-rivieradev-2024/</link>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/ebpf-go-rivieradev-2024/</guid>
+      <description>Demystifying eBPF by exploring how Go makes it accessible, with practical demos of tracing, XDP packet filtering, and Cilium networking.</description>
+    </item>
+    <item>
+      <title>An Intro to eBPF with Go: The Foundation of Modern Kubernetes Networking</title>
+      <link>http://localhost:1313/talks/ebpf-go-fosdem-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/ebpf-go-fosdem-2025/</guid>
+      <description>Demystifying eBPF by exploring how Go makes it accessible - with practical demos of tracing, XDP packet filtering, and Cilium networking.</description>
+    </item>
+    <item>
+      <title>Je vois des Gophers partout</title>
+      <link>http://localhost:1313/podcasts/tranches-de-tech-2024/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/tranches-de-tech-2024/</guid>
+      <description>Épisode 12 du podcast Tranches de Tech où je discute de Go, TinyGo, mon livre Manning, eBPF, Cilium, Docker et les conférences tech.</description>
+    </item>
+    <item>
+      <title>eBPF and Go: The Core of Modern Kubernetes Networking</title>
+      <link>http://localhost:1313/talks/ebpf-go-kubernetes-networking/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/ebpf-go-kubernetes-networking/</guid>
+      <description>Exploring how eBPF and Cilium are revolutionising Kubernetes networking - improving observability, security, and scalability.</description>
+    </item>
+    <item>
+      <title>Sécurise ton réseau avec la magie d&#39;eBPF</title>
+      <link>http://localhost:1313/talks/securing-networks-ebpf/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/securing-networks-ebpf/</guid>
+      <description>Comment utiliser eBPF pour sécuriser les réseaux - filtrage, monitoring et protection de l&amp;rsquo;infrastructure.</description>
+    </item>
+  </channel>
+</rss>

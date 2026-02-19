@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donia Chaiehloudj</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WHAT06: Parcoursup 2026 - Conseils pour faire les bons choix d&#39;orientation</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep04-parcoursup/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep04-parcoursup/</guid>
+      <description>Saison 1 Épisode 4 - Karine Lafont, experte Parcoursup, partage son retour d&amp;rsquo;expérience et ses meilleurs conseils pour aborder Parcoursup sereinement.</description>
+    </item>
+    <item>
+      <title>WHAT06: Iryna et Louise - La team UX de marraine-filleule</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep03-iryna-louise/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep03-iryna-louise/</guid>
+      <description>Saison 1 Épisode 3 - L&amp;rsquo;histoire d&amp;rsquo;Iryna et Louise, un binôme marraine–filleule formé grâce à l&amp;rsquo;appli Tech4Elles autour de l&amp;rsquo;UX/UI design.</description>
+    </item>
+    <item>
+      <title>eBPF Hookpoint Gotchas: Why Your Program Fires (or Fails) in Unexpected Ways</title>
+      <link>http://localhost:1313/talks/ebpf-hookpoint-gotchas-fosdem-2026/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/ebpf-hookpoint-gotchas-fosdem-2026/</guid>
+      <description>Deep dive into eBPF hookpoints - kprobes/fentry, tracepoints, and uprobes - exposing internal kernel mechanics that cause surprising edge cases.</description>
+    </item>
+    <item>
+      <title>WHAT06: Code, crash et persévérance</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep02-code-crash/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep02-code-crash/</guid>
+      <description>Saison 1 Épisode 2 - Dans les coulisses de l&amp;rsquo;appli Tech4Elles avec Ouiza &amp;amp; Y-Meuil. Comment décider ce qui compte vraiment pour les filleules et les marraines.</description>
+    </item>
+    <item>
+      <title>WHAT06: Les poumons de Tech4Elles, l&#39;application de mentoring</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep01-tech4elles/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep01-tech4elles/</guid>
+      <description>Saison 1 Épisode 1 - Comment tout a commencé ? Avec Valérie Guillon, Maëva Cecchi et Laure Gajetti, celles qui ont fait battre le cœur du projet Tech4Elles.</description>
+    </item>
+    <item>
+      <title>eBPF Hookpoint Gotchas</title>
+      <link>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</link>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</guid>
+      <description>Episode 203 of eCHO where we discuss eBPF hookpoint gotchas and common pitfalls when working with eBPF programs.</description>
+    </item>
+    <item>
+      <title>eBPF Summit Hackathon Edition</title>
+      <link>http://localhost:1313/podcasts/echo-199-ebpf-summit-hackathon/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-199-ebpf-summit-hackathon/</guid>
+      <description>Episode 199 where Liz Rice and I reveal the winners of the eBPF Summit Hackathon and discuss submission highlights with special guests.</description>
+    </item>
+    <item>
+      <title>Open Source Inclusion - Merge Forward Initiative</title>
+      <link>http://localhost:1313/podcasts/techstrong-tv-kubecon-2025/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/techstrong-tv-kubecon-2025/</guid>
+      <description>Discussing Merge Forward, an initiative focused on strengthening diversity and inclusion across open source communities, with Troy Connor at KubeCon NA 2025.</description>
+    </item>
+    <item>
+      <title>From Squire to Network Knight: Defending the Kubernetes Castle the Cloud Native Way</title>
+      <link>http://localhost:1313/talks/cloud-native-university-2025/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/cloud-native-university-2025/</guid>
+      <description>A journey from beginner to expert in Kubernetes network security using Cilium and cloud native tools - from wide-open cluster to layered defense.</description>
+    </item>
+    <item>
+      <title>Aladdin &amp; the eBPF Lamp: Travel in the Kernel</title>
+      <link>http://localhost:1313/talks/aladdin-ebpf-lamp/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/aladdin-ebpf-lamp/</guid>
+      <description>A magical journey into the Linux kernel with eBPF - discovering the power of kernel observability and networking.</description>
+    </item>
+    <item>
+      <title>Merge Forward</title>
+      <link>http://localhost:1313/projects/merge-forward/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/merge-forward/</guid>
+      <description>Leading onsite KubeCon activities for the CNCF Merge Forward initiative, supporting underrepresented groups in open source.</description>
+    </item>
+    <item>
+      <title>Benchmarks Don&#39;t Lie: The Real Cost of Security Agents</title>
+      <link>http://localhost:1313/podcasts/echo-193-benchmarks-security-agents/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-193-benchmarks-security-agents/</guid>
+      <description>Episode 193 where I host Henrik Rexed to discuss his benchmarks on runtime security agents and the real cost of eBPF-based security solutions.</description>
+    </item>
+    <item>
+      <title>eBPF with Go: The Foundation of Modern Kubernetes Networking</title>
+      <link>http://localhost:1313/talks/ebpf-go-rivieradev-2024/</link>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/ebpf-go-rivieradev-2024/</guid>
+      <description>Demystifying eBPF by exploring how Go makes it accessible, with practical demos of tracing, XDP packet filtering, and Cilium networking.</description>
+    </item>
+    <item>
+      <title>Être une femme dans la Tech</title>
+      <link>http://localhost:1313/podcasts/muscle-ta-repartie-2025/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/muscle-ta-repartie-2025/</guid>
+      <description>Partage de mon expérience en tant que femme dans la Tech et mes conseils pour la féminiser. Discussion sur WHAT06, les situations rencontrées et comment réagir.</description>
+    </item>
+    <item>
+      <title>Cilium&#39;s Honeycomb: Cultivating Technical Excellence in a Diverse Ecosystem</title>
+      <link>http://localhost:1313/talks/cilium-honeycomb-kubecon-2025/</link>
+      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/cilium-honeycomb-kubecon-2025/</guid>
+      <description>Sponsored keynote celebrating the collective intelligence behind Cilium&amp;rsquo;s success - diverse use cases, users, and contributors cultivating technical excellence.</description>
+    </item>
+    <item>
+      <title>An Intro to eBPF with Go: The Foundation of Modern Kubernetes Networking</title>
+      <link>http://localhost:1313/talks/ebpf-go-fosdem-2025/</link>
+      <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/ebpf-go-fosdem-2025/</guid>
+      <description>Demystifying eBPF by exploring how Go makes it accessible - with practical demos of tracing, XDP packet filtering, and Cilium networking.</description>
+    </item>
+    <item>
+      <title>Mastering Hardware Programming, Go, &amp; Networking in Embedded Systems</title>
+      <link>http://localhost:1313/podcasts/codative-2024/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/codative-2024/</guid>
+      <description>Discussing my journey in hardware programming, why Go is a game-changer for embedded development, and tackling networking challenges in IoT.</description>
+    </item>
+    <item>
+      <title>Je vois des Gophers partout</title>
+      <link>http://localhost:1313/podcasts/tranches-de-tech-2024/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/tranches-de-tech-2024/</guid>
+      <description>Épisode 12 du podcast Tranches de Tech où je discute de Go, TinyGo, mon livre Manning, eBPF, Cilium, Docker et les conférences tech.</description>
+    </item>
+    <item>
+      <title>eBPF and Go: The Core of Modern Kubernetes Networking</title>
+      <link>http://localhost:1313/talks/ebpf-go-kubernetes-networking/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/ebpf-go-kubernetes-networking/</guid>
+      <description>Exploring how eBPF and Cilium are revolutionising Kubernetes networking - improving observability, security, and scalability.</description>
+    </item>
+    <item>
+      <title>Working in regulated industries, QA to SWE, and public speaking</title>
+      <link>http://localhost:1313/podcasts/glich-stream-2024/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/glich-stream-2024/</guid>
+      <description>Discussing my transition from QA to software development, working in aerospace, moving to startups, contributing to open source, public speaking, and co-authoring a Go book.</description>
+    </item>
+    <item>
+      <title>Go, Community, and Learning</title>
+      <link>http://localhost:1313/podcasts/ardan-labs-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/ardan-labs-2024/</guid>
+      <description>Discussing my diverse career journey, from image processing and electronics to Go development in the cloud-native space, community leadership, and balancing career with motherhood.</description>
+    </item>
+    <item>
+      <title>Build a Glamorous Habit Tracker Using Charm CLI</title>
+      <link>http://localhost:1313/talks/charm-cli-habit-tracker/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/charm-cli-habit-tracker/</guid>
+      <description>Learn to build beautiful terminal applications with Charm CLI tools - creating a habit tracker with style using Bubble Tea, Lip Gloss, and more.</description>
+    </item>
+    <item>
+      <title>Sécurise ton réseau avec la magie d&#39;eBPF</title>
+      <link>http://localhost:1313/talks/securing-networks-ebpf/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/securing-networks-ebpf/</guid>
+      <description>Comment utiliser eBPF pour sécuriser les réseaux - filtrage, monitoring et protection de l&amp;rsquo;infrastructure.</description>
+    </item>
+    <item>
+      <title>So many Go books, so little time!</title>
+      <link>http://localhost:1313/podcasts/cup-o-go-2023/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/cup-o-go-2023/</guid>
+      <description>Interview with Jonathan Hall and Adelina Simion about my journey, working at Isovalent on Cilium, and co-authoring Learn Go with Pocket-Sized Projects.</description>
+    </item>
+    <item>
+      <title>Learn Go with Pocket-Sized Projects</title>
+      <link>http://localhost:1313/podcasts/bug-hunters-cafe-2023/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/bug-hunters-cafe-2023/</guid>
+      <description>With my co-authors Aliénor Latour and Pascal Bertrand, we discuss what makes Go tick and share strange bugs we&amp;rsquo;ve encountered across our diverse experiences as software engineers.</description>
+    </item>
+    <item>
+      <title>À la découverte de Go</title>
+      <link>http://localhost:1313/talks/decouverte-go/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/decouverte-go/</guid>
+      <description>Une introduction au langage Go - découverte des fondamentaux, démo en direct, et networking autour d&amp;rsquo;un verre.</description>
+    </item>
+    <item>
+      <title>‍👩🏽‍🌾 2022: Time to Harvest</title>
+      <link>http://localhost:1313/posts/2023-01-16-2022-time-to-harvest/</link>
+      <pubDate>Mon, 16 Jan 2023 11:36:31 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2023-01-16-2022-time-to-harvest/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;If I had to describe 2022 in three words: community, travel, and fatigue.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Like many of us, I am looking toward the past at this end of the year, by writing a few lines.&#xA;When a cycle is finished, I do appreciate looking back just to enjoy the new one coming.&#xA;In reality, cycles are part of our life without being calendars. Talking about calendars,&#xA;I tend to prefer birthdays instead of the new year. I feel 2022 is a watershed moment in my life, and I wanted to set&#xA;it in stone by writing this article.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2022: Time to Harvest</title>
+      <link>http://localhost:1313/blog/2023-01-16-2022-time-to-harvest/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023-01-16-2022-time-to-harvest/</guid>
+      <description>A reflection on 2022 - a year of community building, public speaking, and personal growth. Discussing accomplishments, challenges, and learnings from a transformative year.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen</title>
+      <link>http://localhost:1313/talks/tinygo-gowest-2022/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gowest-2022/</guid>
+      <description>A practical introduction to TinyGo through a real-world project - monitoring a hen house with microcontrollers, sensors, and Grafana dashboards.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen</title>
+      <link>http://localhost:1313/talks/tinygo-gophercon-us-2022/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gophercon-us-2022/</guid>
+      <description>A practical introduction to TinyGo through a real-world project - monitoring a hen house with microcontrollers, sensors, and Grafana dashboards.</description>
+    </item>
+    <item>
+      <title>Do&#39;s and Don&#39;ts moving to Go microservices architecture</title>
+      <link>http://localhost:1313/talks/microservices-containerdays-2022/</link>
+      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/microservices-containerdays-2022/</guid>
+      <description>Best practices and lessons learned when transitioning to a Go microservices architecture - what to do and what to avoid.</description>
+    </item>
+    <item>
+      <title>Do&#39;s and Don&#39;ts moving to Go microservices architecture</title>
+      <link>http://localhost:1313/talks/microservices-ewit-2022/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/microservices-ewit-2022/</guid>
+      <description>Best practices and lessons learned when transitioning to a Go microservices architecture - what to do and what to avoid.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen (Long Version)</title>
+      <link>http://localhost:1313/talks/tinygo-gophercon-uk-2022/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gophercon-uk-2022/</guid>
+      <description>An extended deep-dive into TinyGo through building a hen house monitoring system - covering hardware setup, sensor integration, and data visualization.</description>
+    </item>
+    <item>
+      <title>My GopherCon Europe 2022 Highlights</title>
+      <link>http://localhost:1313/posts/2022-08-05-my-gophercon-europe-2022-highlights/</link>
+      <pubDate>Fri, 05 Aug 2022 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2022-08-05-my-gophercon-europe-2022-highlights/</guid>
+      <description>&lt;p&gt;Last week, I gave my first talk on a stage at a conference with a mic and everything: this happened at &lt;a href=&#34;https://gophercon.eu/&#34;&gt;GopherCon Europe&lt;/a&gt;.&#xA;It was an amazing and enriching experience. I wanted to share with you the story behind it and a sum up of the talks I attended.&lt;/p&gt;&#xA;&lt;p&gt;TL;DR: If you are only interested in the recap of the conference, you can skip directly to the “Berlin, an underground city” section.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My GopherCon Europe 2022 Highlights</title>
+      <link>http://localhost:1313/blog/2022-08-05-my-gophercon-europe-2022-highlights/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-08-05-my-gophercon-europe-2022-highlights/</guid>
+      <description>A detailed recap of my first conference talk experience at GopherCon Europe 2022 in Berlin - from preparation to delivery, including talks attended and amazing people met.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen</title>
+      <link>http://localhost:1313/talks/tinygo-gophercon-europe-2022/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gophercon-europe-2022/</guid>
+      <description>My first major conference talk! A practical introduction to TinyGo through monitoring my hen house with microcontrollers and sensors.</description>
+    </item>
+    <item>
+      <title>Behind the scenes of the GDG Sophia-Antipolis</title>
+      <link>http://localhost:1313/posts/2022-05-11-behind-the-scenes-gdg-sophia-antipolis/</link>
+      <pubDate>Wed, 11 May 2022 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2022-05-11-behind-the-scenes-gdg-sophia-antipolis/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;gdg-sophia-antipolis.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;em&gt;Photo credit &lt;a href=&#34;https://jacques-wisdorff.jimdosite.com/&#34;&gt;Jacques Wisdorff&lt;/a&gt; 🎬 — hosting people during the Trophies Women In Tech South 2022 organised by &lt;a href=&#34;https://what06.fr/&#34;&gt;WHAT06&lt;/a&gt; — Women Hackers Action Tank at the Palais des Festivals et des Congrès de Cannes&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Follow me today in my event organisation throwback, and check the surprise at the end!&lt;/p&gt;&#xA;&lt;p&gt;You can find the french version on &lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:6930081694972575745/&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Behind the scenes of the GDG Sophia-Antipolis</title>
+      <link>http://localhost:1313/blog/2022-05-11-behind-the-scenes-gdg-sophia-antipolis/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-05-11-behind-the-scenes-gdg-sophia-antipolis/</guid>
+      <description>A look behind the scenes of founding and running the Google Developer Group Sophia-Antipolis - building a tech community in the south of France.</description>
+    </item>
+    <item>
+      <title>Honey, Let&#39;s Shrink The Gophers! (TinyGo Introduction)</title>
+      <link>http://localhost:1313/talks/tinygo-intro-wtm-berlin-2022/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-intro-wtm-berlin-2022/</guid>
+      <description>An introduction to TinyGo for beginners - my first ever tech talk, delivered remotely for Women Techmakers Berlin.</description>
+    </item>
+    <item>
+      <title>Google Developer Group Sophia-Antipolis</title>
+      <link>http://localhost:1313/projects/gdg-sophia-antipolis/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/gdg-sophia-antipolis/</guid>
+      <description>Founded the GDG Sophia-Antipolis chapter in 2022. Since then, organized 30+ events including meetups and annual DevFest conferences.</description>
+    </item>
+    <item>
+      <title>My Top 5 Women Motivational Speakers in Cloud-Native Development</title>
+      <link>http://localhost:1313/posts/2021-11-23-top-5-women-cloud-native-dev/</link>
+      <pubDate>Tue, 23 Nov 2021 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2021-11-23-top-5-women-cloud-native-dev/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;top-5-women-in-cloud.png&#34; alt=&#34;Top 5 Women In Tech&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;They are CNCF ambassadors, Docker captains, or AWS heroes. The &lt;strong&gt;women in tech are the game-changers of cloud-native development&lt;/strong&gt;, sharing their knowledge about containers, Kubernetes, Docker, or DevOps topics. They inspire the new generation of girls entering into the STEM universe.&lt;/p&gt;&#xA;&lt;p&gt;Diversity is crucial in a successful company by bringing different perspectives to solve a problem, understand all customers and overall coming up with the right solutions to challenges.&lt;br&gt;&#xA;We find many organizations preaching the importance of having female figures to identify and inspire young girls (meaning less than 18 yo) to venture into tech paths.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Top 5 Women Motivational Speakers in Cloud-Native Development</title>
+      <link>http://localhost:1313/blog/2021-11-23-top-5-women-cloud-native-dev/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2021-11-23-top-5-women-cloud-native-dev/</guid>
+      <description>Bringing the importance of role models and sharing my top 5 women speakers in cloud-native development - CNCF ambassadors, Docker captains, and AWS heroes inspiring the next generation.</description>
+    </item>
+    <item>
+      <title>ChangeBlogging my first Hacktoberfest 2021</title>
+      <link>http://localhost:1313/posts/2021-11-05-hacktoberfest-2021/</link>
+      <pubDate>Fri, 05 Nov 2021 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2021-11-05-hacktoberfest-2021/</guid>
+      <description>&lt;p&gt;How I discovered the vast open source world thanks to the Hackoberfest.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;hacktoberfest_01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Three weeks ago, while going through the last posts on &lt;a href=&#34;https://dev.to/doniacld&#34;&gt;Hashnode&lt;/a&gt;, I landed on &lt;a href=&#34;https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021?source=newsletter&#34;&gt;Beginners’s guide to Hacktoberfest 2021&lt;/a&gt; post from Ayushi Rawat.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChangeBlogging my first Hacktoberfest 2021</title>
+      <link>http://localhost:1313/blog/2021-11-05-hacktoberfest-2021/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2021-11-05-hacktoberfest-2021/</guid>
+      <description>Walking through one month of my open source contributions during Hacktoberfest 2021 - overcoming fears, making first contributions, and discovering the rewarding world of open source.</description>
+    </item>
+    <item>
+      <title>10 concepts you should know about distributed systems</title>
+      <link>http://localhost:1313/posts/2021-10-06-10-concepts-distributed-systems/</link>
+      <pubDate>Wed, 06 Oct 2021 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2021-10-06-10-concepts-distributed-systems/</guid>
+      <description>&lt;h2 id=&#34;1-distributed-system&#34;&gt;1. Distributed System&lt;/h2&gt;&#xA;&lt;p&gt;Before deep diving into concepts, let’s define what a distributed sdisstem is. The best definition is from Tim Berglund in an O’Reilly lesson: &lt;em&gt;“distributed systems […] are a collection of &lt;strong&gt;independent computers&lt;/strong&gt; that appears to its user as a single computer”&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h3 id=&#34;distributed-systems-are-a-collection-of-independent-computers-that-appears-to-its-user-as-a-single-computer&#34;&gt;Distributed systems are a collection of independent computers that appears to its user as a single computer.&lt;/h3&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;2-availability&#34;&gt;2. Availability&lt;/h2&gt;&#xA;&lt;p&gt;A system is available when service interruption is minimal which means downtime and failures are punctual.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>10 concepts you should know about distributed systems</title>
+      <link>http://localhost:1313/blog/2021-10-06-10-concepts-distributed-systems/</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2021-10-06-10-concepts-distributed-systems/</guid>
+      <description>A brief lexicon of cloud computing main principles - covering availability, scalability, load balancing, caching, replication, sharding, monitoring, and observability.</description>
+    </item>
+    <item>
+      <title>Open Source Contributions</title>
+      <link>http://localhost:1313/projects/open-source-contributions/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/open-source-contributions/</guid>
+      <description>Contributing to various open source projects including revive (Go linter), TinyGo drivers, and GoBadge.</description>
+    </item>
+    <item>
+      <title>TinyGo Adventures</title>
+      <link>http://localhost:1313/projects/tinygo/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tinygo/</guid>
+      <description>Exploring TinyGo for microcontrollers - from learning experiments to the Tiny Hen project monitoring my hen house, presented at multiple GopherCons.</description>
+    </item>
+    <item>
+      <title>WHAT06 - Women Hackers Action Tank</title>
+      <link>http://localhost:1313/projects/what06/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/what06/</guid>
+      <description>Active member of WHAT06 since 2021, contributing as MC for events, working on the Tech4Elles mentoring app, and hosting the WHAT06 podcast.</description>
+    </item>
+  </channel>
+</rss>
