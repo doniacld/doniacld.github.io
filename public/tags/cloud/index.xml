@@ -18,9 +18,9 @@
     </item>
     <item>
       <title>10 concepts you should know about distributed systems</title>
-      <link>http://localhost:1313/blog/2021-10-06-10-concepts-distributed-systems/</link>
+      <link>http://localhost:1313/blog/10-concepts-you-should-know-about-distributed-systems/</link>
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2021-10-06-10-concepts-distributed-systems/</guid>
+      <guid>http://localhost:1313/blog/10-concepts-you-should-know-about-distributed-systems/</guid>
       <description>A brief lexicon of cloud computing main principles - covering availability, scalability, load balancing, caching, replication, sharding, monitoring, and observability.</description>
     </item>
   </channel>
