@@ -81,10 +81,17 @@
     </item>
     <item>
       <title>My Top 5 Women Motivational Speakers in Cloud-Native Development</title>
-      <link>http://localhost:1313/blog/2021-11-23-top-5-women-cloud-native-dev/</link>
+      <link>http://localhost:1313/blog/my-top-5-women-motivational-speakers-in-cloud-native-development/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2021-11-23-top-5-women-cloud-native-dev/</guid>
+      <guid>http://localhost:1313/blog/my-top-5-women-motivational-speakers-in-cloud-native-development/</guid>
       <description>Bringing the importance of role models and sharing my top 5 women speakers in cloud-native development - CNCF ambassadors, Docker captains, and AWS heroes inspiring the next generation.</description>
+    </item>
+    <item>
+      <title>WHAT06 - Women Hackers Action Tank</title>
+      <link>http://localhost:1313/projects/what06/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/what06/</guid>
+      <description>Active member of WHAT06 since 2021, contributing as MC for events, working on the Tech4Elles mentoring app, and hosting the WHAT06 podcast.</description>
     </item>
   </channel>
 </rss>

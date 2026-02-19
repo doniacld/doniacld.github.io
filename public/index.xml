@@ -200,9 +200,9 @@
     </item>
     <item>
       <title>2022: Time to Harvest</title>
-      <link>http://localhost:1313/blog/2023-01-16-2022-time-to-harvest/</link>
+      <link>http://localhost:1313/blog/2022-time-to-harvest/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2023-01-16-2022-time-to-harvest/</guid>
+      <guid>http://localhost:1313/blog/2022-time-to-harvest/</guid>
       <description>A reflection on 2022 - a year of community building, public speaking, and personal growth. Discussing accomplishments, challenges, and learnings from a transformative year.</description>
     </item>
     <item>
@@ -249,9 +249,9 @@
     </item>
     <item>
       <title>My GopherCon Europe 2022 Highlights</title>
-      <link>http://localhost:1313/blog/2022-08-05-my-gophercon-europe-2022-highlights/</link>
+      <link>http://localhost:1313/blog/my-gophercon-europe-2022-highlights/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2022-08-05-my-gophercon-europe-2022-highlights/</guid>
+      <guid>http://localhost:1313/blog/my-gophercon-europe-2022-highlights/</guid>
       <description>A detailed recap of my first conference talk experience at GopherCon Europe 2022 in Berlin - from preparation to delivery, including talks attended and amazing people met.</description>
     </item>
     <item>
@@ -270,9 +270,9 @@
     </item>
     <item>
       <title>Behind the scenes of the GDG Sophia-Antipolis</title>
-      <link>http://localhost:1313/blog/2022-05-11-behind-the-scenes-gdg-sophia-antipolis/</link>
+      <link>http://localhost:1313/blog/behind-the-scenes-of-the-gdg-sophia-antipolis/</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2022-05-11-behind-the-scenes-gdg-sophia-antipolis/</guid>
+      <guid>http://localhost:1313/blog/behind-the-scenes-of-the-gdg-sophia-antipolis/</guid>
       <description>A look behind the scenes of founding and running the Google Developer Group Sophia-Antipolis - building a tech community in the south of France.</description>
     </item>
     <item>
@@ -298,9 +298,9 @@
     </item>
     <item>
       <title>My Top 5 Women Motivational Speakers in Cloud-Native Development</title>
-      <link>http://localhost:1313/blog/2021-11-23-top-5-women-cloud-native-dev/</link>
+      <link>http://localhost:1313/blog/my-top-5-women-motivational-speakers-in-cloud-native-development/</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2021-11-23-top-5-women-cloud-native-dev/</guid>
+      <guid>http://localhost:1313/blog/my-top-5-women-motivational-speakers-in-cloud-native-development/</guid>
       <description>Bringing the importance of role models and sharing my top 5 women speakers in cloud-native development - CNCF ambassadors, Docker captains, and AWS heroes inspiring the next generation.</description>
     </item>
     <item>
@@ -312,9 +312,9 @@
     </item>
     <item>
       <title>ChangeBlogging my first Hacktoberfest 2021</title>
-      <link>http://localhost:1313/blog/2021-11-05-hacktoberfest-2021/</link>
+      <link>http://localhost:1313/blog/changeblogging-my-first-hacktoberfest-2021/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2021-11-05-hacktoberfest-2021/</guid>
+      <guid>http://localhost:1313/blog/changeblogging-my-first-hacktoberfest-2021/</guid>
       <description>Walking through one month of my open source contributions during Hacktoberfest 2021 - overcoming fears, making first contributions, and discovering the rewarding world of open source.</description>
     </item>
     <item>
@@ -326,9 +326,9 @@
     </item>
     <item>
       <title>10 concepts you should know about distributed systems</title>
-      <link>http://localhost:1313/blog/2021-10-06-10-concepts-distributed-systems/</link>
+      <link>http://localhost:1313/blog/10-concepts-you-should-know-about-distributed-systems/</link>
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2021-10-06-10-concepts-distributed-systems/</guid>
+      <guid>http://localhost:1313/blog/10-concepts-you-should-know-about-distributed-systems/</guid>
       <description>A brief lexicon of cloud computing main principles - covering availability, scalability, load balancing, caching, replication, sharding, monitoring, and observability.</description>
     </item>
     <item>

@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html lang="en-us" data-theme="light">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+
+<title>My GopherCon Europe 2022 Highlights | Donia Chaiehloudj</title>
+<meta name="description" content="Software Developer | Go Enthusiast | Speaker | Community Builder">
+
+<meta name="author" content="Donia Chaiehloudj">
+
+
+<meta property="og:title" content="My GopherCon Europe 2022 Highlights">
+<meta property="og:description" content="Software Developer | Go Enthusiast | Speaker | Community Builder">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://localhost:1313/blog/my-gophercon-europe-2022-highlights/">
+<meta property="og:site_name" content="Donia Chaiehloudj">
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="My GopherCon Europe 2022 Highlights">
+<meta name="twitter:description" content="Software Developer | Go Enthusiast | Speaker | Community Builder">
+
+
+<link rel="canonical" href="http://localhost:1313/blog/my-gophercon-europe-2022-highlights/">
+
+
+
+<link rel="icon" href="/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/favicon.png">
+
+
+
+<link rel="stylesheet" href="/css/main.min.94b499e25936e1b183704d75a212d21fa49f62f416aa7567d5e4fdb27add86cb.css" integrity="sha256-lLSZ4lk24bGDcE11ohLSH6SfYvQWqnVn1eT9snrdhss=">
+
+
+
+
+
+<script>
+  (function() {
+    const theme = localStorage.getItem('theme') || 
+      (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    document.documentElement.setAttribute('data-theme', theme);
+  })();
+</script>
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Skip to content</a><header class="site-header">
+  <div class="container container--wide">
+    <div class="site-header__inner">
+      <div class="site-header__left">
+        <a href="http://localhost:1313/" class="site-title">
+          <img src="/images/avatar.png" alt="Donia" class="site-logo" />
+          <span>doniacld</span>
+        </a>
+        <button class="theme-toggle" aria-label="Toggle dark mode">
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="5"></circle>
+            <line x1="12" y1="1" x2="12" y2="3"></line>
+            <line x1="12" y1="21" x2="12" y2="23"></line>
+            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+            <line x1="1" y1="12" x2="3" y2="12"></line>
+            <line x1="21" y1="12" x2="23" y2="12"></line>
+            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+          </svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+        </button>
+      </div>
+      
+      <nav class="site-nav" aria-label="Main navigation">
+        <button class="nav-toggle" aria-expanded="false" aria-controls="nav-menu" aria-label="Toggle navigation">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+        </button>
+        
+        <ul class="site-nav__list" id="nav-menu">
+          <li>
+            <a href="/blog/" class="site-nav__link">
+              Blog
+            </a>
+          </li>
+          <li>
+            <a href="/talks/" class="site-nav__link">
+              Talks
+            </a>
+          </li>
+          <li>
+            <a href="/podcasts/" class="site-nav__link">
+              Podcasts
+            </a>
+          </li>
+          <li>
+            <a href="/projects/" class="site-nav__link">
+              Projects
+            </a>
+          </li>
+          <li>
+            <a href="/book/" class="site-nav__link">
+              Book
+            </a>
+          </li>
+          <li>
+            <a href="/about/" class="site-nav__link">
+              About
+            </a>
+          </li>
+        </ul>
+        
+        <button type="button" class="search-trigger" aria-label="Search" aria-expanded="false" aria-controls="search-panel">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </button>
+      </nav>
+    </div>
+  </div>
+</header>
+
+
+<div id="search-panel" class="search-panel" hidden>
+  <div class="search-panel__overlay"></div>
+  <div class="search-panel__content">
+    <div class="search-panel__header">
+      <div class="search-panel__input-wrapper">
+        <svg class="search-panel__icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <circle cx="11" cy="11" r="8"></circle>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+        </svg>
+        <input 
+          type="search" 
+          id="global-search-input" 
+          class="search-panel__input" 
+          placeholder="Search content..." 
+          aria-label="Search content"
+          autocomplete="off"
+        >
+        <button type="button" class="search-panel__close" aria-label="Close search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <line x1="18" y1="6" x2="6" y2="18"></line>
+            <line x1="6" y1="6" x2="18" y2="18"></line>
+          </svg>
+        </button>
+      </div>
+      
+      
+      <div class="search-panel__tags">
+        <span class="search-panel__tags-label">Browse by tag:</span>
+        <a href="/tags/" class="search-panel__tags-link">View all tags →</a>
+      </div>
+    </div>
+    
+    <div class="search-panel__results" id="search-results">
+      <div class="search-panel__hint">
+        <p>Type to search across all content</p>
+        <div class="search-panel__shortcuts">
+          <span><kbd>↵</kbd> to select</span>
+          <span><kbd>esc</kbd> to close</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<main id="main-content">
+<div class="container">
+  <article class="article">
+    <header class="article__header">
+      <h1 class="article__title">My GopherCon Europe 2022 Highlights</h1>
+      <div class="article__meta">
+        <time datetime="2022-08-05">August 5, 2022</time>
+        
+        <span class="tags">
+          
+          <a href="/tags/go/" class="tag">go</a>
+          
+          <a href="/tags/public-speaking/" class="tag">public-speaking</a>
+          
+          <a href="/tags/career/" class="tag">career</a>
+          
+        </span>
+        
+      </div>
+    </header>
+    
+    
+    
+    <aside class="toc">
+      <p class="toc__title">Table of Contents</p>
+      <nav id="TableOfContents">
+  <ul>
+    <li><a href="#how-it-started">How it started</a></li>
+    <li><a href="#the-storm">The storm</a></li>
+    <li><a href="#berlin-an-underground-city">Berlin, an underground city!</a>
+      <ul>
+        <li><a href="#thursday-28-community-event">Thursday 28, community event</a></li>
+        <li><a href="#friday-29-workshops-or-hack-session">Friday 29, workshops or hack session</a></li>
+        <li><a href="#saturday-30-the-day">Saturday 30, THE day</a>
+          <ul>
+            <li><a href="#reinventing-cli-with-go-marian-montagnino">Reinventing CLI with Go, Marian Montagnino</a></li>
+            <li><a href="#respecting-memory-limits-in-go-michael-knyszek">Respecting memory limits in Go, Michael Knyszek</a></li>
+            <li><a href="#from-service-to-platform-a-ranking-system-in-go-konrad-reiche">From service to platform: a ranking system in Go, Konrad Reiche</a></li>
+            <li><a href="#practical-memory-profiling-bill-kennedy">Practical memory profiling, Bill Kennedy</a></li>
+            <li><a href="#tinygo-getting-the-upper-hen-donia-chaiehloudj-myself">TinyGo: Getting the upper hen, Donia Chaiehloudj (myself)</a></li>
+            <li><a href="#panel-with-the-go-team-than-macintosh-cameron-balahan-michael-knyszek">Panel with the Go Team, Than Macintosh, Cameron Balahan, Michael Knyszek</a></li>
+            <li><a href="#career-tips-for-software-engineers-adelina-simion">Career tips for software engineers, Adelina Simion</a></li>
+            <li><a href="#go-time">Go Time</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#thanking-gophercon-speech">Thanking GopherCon speech</a></li>
+    <li><a href="#some-more-cool-pictures">Some more cool pictures</a></li>
+  </ul>
+</nav>
+    </aside>
+    
+    
+    <div class="article__content">
+      <p>Last week, I gave my first talk on a stage at a conference with a mic and everything: this happened at <a href="https://gophercon.eu/">GopherCon Europe</a>.
+It was an amazing and enriching experience. I wanted to share with you the story behind it and a sum up of the talks I attended.</p>
+<p>TL;DR: If you are only interested in the recap of the conference, you can skip directly to the &ldquo;Berlin, an underground city&rdquo; section.</p>
+<p><img src="gophercon_01.png" alt="GopherCon Europe"></p>
+<h2 id="how-it-started">How it started</h2>
+<p>Last November, I posted an article called: My Top 5 Women Motivational Speakers in Cloud-Native Development in 2021.
+I was looking for role models and dreaming about what I could realise. I set myself objectives such as learning some tech learning, writing an article per month, starting a tech community,
+and giving talks, but it was too much at the same time — and I still have many articles in my WIP folder.</p>
+<p>While I was working on building a community on the Google Developer Group, I discovered a program named <a href="https://medium.com/googledeveloperseurope/empowering-women-in-tech-to-thrive-join-the-women-developer-academy-europe-2022-fa48fd69ebf5">Women Developer Academy</a>.
+The goal is to accompany women in tech — women who are on the path of sharing learnings by creating content and having an interest in Google technologies, which, in my case, is Go.</p>
+<p>During this one-month program, I met an amazing community, and I learned how to:</p>
+<ul>
+<li>build and cultivate my confidence</li>
+<li>write an abstract</li>
+<li>make a technical presentation</li>
+<li>select a topic</li>
+</ul>
+<p>The last session of the program was a 5 minutes presentation using all the tips and tricks our mentors taught us.</p>
+<p>During this time, since my partner and I were talking about monitoring the hen house using <a href="https://tinygo.org/">TinyGo</a>,
+I decided to make an intro to TinyGo and this was the beginning of the story! At the end of the program, they told us to go to meetups and conferences. Do not say it twice!</p>
+<p>First, I had the opportunity to give my <a href="https://www.youtube.com/watch?v=2v91Rff4Ipk">TinyGo introduction</a> for the <a href="https://wtmberlin.com/">Women Techmakers Berlin</a> remotely which was a good first step.</p>
+<p>In parallel, I applied to all the Go conferences I could find. To draft my abstract, I completed the program learning with articles specific to GopherCon especially the series from <a href="https://blog.gopheracademy.com/gophercon-2017/writing-a-successful-gophercon-proposal/">Gopher Academy</a>.
+And here I am, accepted to the GopherCon Europe in Berlin!</p>
+<h2 id="the-storm">The storm</h2>
+<p>I remember reading very good tips from Carolyn Van Slyck in her article <a href="https://carolynvanslyck.com/blog/2018/12/talk-at-gophercon/">Submit a Talk to GopherCon</a>!
+<em>&ldquo;Don&rsquo;t learn something just in time for the conference. That is stressful and probably won&rsquo;t go over well.&rdquo;</em> That I did not apply… A month before the conference, nothing of the submitted project existed. I had to build everything in 3 weeks with a lot of stress, I might admit. Don&rsquo;t do it. Just apply next year. When I admitted it to the TinyGo community on slack one month before, their answer was: &ldquo;Conference Driven Development&rdquo;, &ldquo;Talk Driven Development&rdquo;.</p>
+<p>Anyway, I worked many evenings and weekends to make this project work and made the slides ready for the due date. And I am very proud that I managed it with the help and support of my partner, friends, my mentor and the TinyGo community of course. Being surrounded by people that care for your success has been the most important thing for me this last month.</p>
+<p>And the day to fly to Berlin came.</p>
+<h2 id="berlin-an-underground-city">Berlin, an underground city!</h2>
+<p><img src="gophercon_02_berlin.jpeg" alt="Berlin"></p>
+<h3 id="thursday-28-community-event">Thursday 28, community event</h3>
+<p>GopherCon organisers were proposing an alternative Berlin tour in the morning. It was a great way to discover the history of the city with a focus on the LGBT and street art aspects. I had the chance to meet the first gophers of the conference and bond with some of them.</p>
+<p>The afternoon was dedicated to meeting more gophers and discussing at round tables about defined topics. I had the opportunity to meet Ale and Bill Kennedy, big names of the Go community but before anything else amazing human beings. With my dearest friends, we had 15 mins of conversation and advice from Bill Kennedy… very well-invested time.</p>
+<p>The organisers and the tech team gave me the opportunity to test my material on the stage to make sure everything was okay. And… it was not okay. My Mac plugged in through HDMI was not sending any signal. If you are facing this problem at a conference, save your time try a USB-C adapter in between.</p>
+<p>I ended my afternoon with engineers from Torq and Google DevRel Valentin Deleplace. We had a very interesting conversation about microservices architecture, with or without gateways, what to expose the client and how. You can go further by reading Kotya&rsquo;s articles about <a href="https://grpcguide.com/building-api-gateway-for-grpc">gateways here</a>.</p>
+<h3 id="friday-29-workshops-or-hack-session">Friday 29, workshops or hack session</h3>
+<p>I decided to not attend any workshop because I wanted to join the TinyGo hack session, of course!
+There were many boards and materials available with tutorials to play with sensors and the latest feature of TinyGo (the USB MIDI):
+build a MIDI (Musical Instrument Digital Interface) and play music. I managed to play only one note, but I decided to do more in the
+future and explore the funniest feature of TinyGo.</p>
+<p><img src="gophercon_03_tinygo_table.jpeg" alt="TinyGo Table"></p>
+<p>I had the chance to meet TinyGo community&rsquo;s big names: Ron Evans and Daniel Esteban. It was a huge moment for me and, after an afternoon, you just realised they are humans like you.</p>
+<p>I also had an awesome gift from Ron Evans, a pybadge (Adafruit) for the next coming conferences. (
+I almost cried at this point.) Spent my evening rehearsing my talk and flashing my board at the hotel.</p>
+<p><img src="gophercon_04_badge.jpeg" alt="Badge"></p>
+<p>During lunch, I finally met Adelina Simion. Why finally? Because a few months ago, after her interview for Eddie Jaoude, I asked her kindly if she would be my mentor. Since then, we have called each other once a month and she has been very present to help me manage conferences&rsquo; timing and content. Have a mentor, have several mentors.</p>
+<h3 id="saturday-30-the-day">Saturday 30, THE day</h3>
+<p>It is THE day, you can imagine how nervous I was. After the last rehearsal and a nice breakfast (all the food was very good by the way), the opening words were held. We were in the front row to encourage Marian for her talk about CLI (and next to Bill Kennedy).</p>
+<p><img src="gophercon_05_my_dream_team.jpeg" alt="My dream team"></p>
+<h4 id="reinventing-cli-with-go-marian-montagnino">Reinventing CLI with Go, Marian Montagnino</h4>
+<p>Marian has been using computers since her very young age and has reunited in this talk her love for text-based apps and Go.
+She presented the best practices when building a CLI, especially for humans and the Go tools that are available to build one easily such as Cobra,
+Survey and TermDash. I fell in love with TermDash.</p>
+<p><img src="gophercon_06_marian.jpeg" alt="Marian"></p>
+<h4 id="respecting-memory-limits-in-go-michael-knyszek">Respecting memory limits in Go, Michael Knyszek</h4>
+<p>Michael is an engineer at Google in the Go team and is an expert on memory management.
+In his talk, he explained the next memory feature from Go 1.19, which was just around the corner.
+He gave several examples using one graphic on how to customize the peak memory parameter.
+The point of the talk was to reduce the number of calls to the GC (Garbage Collector) by using as much memory as possible. so the Garbage Collector is called. You can go check the garbage collector guide on <a href="https://tip.golang.org/doc/gc-guide">go documentation</a> and play with the parameters.</p>
+<p><img src="gophercon_07_memory.jpeg" alt="Memory"></p>
+<h4 id="from-service-to-platform-a-ranking-system-in-go-konrad-reiche">From service to platform: a ranking system in Go, Konrad Reiche</h4>
+<p>Konrad is a software engineer at Reddit where they publish recommended feeds for users.
+In his talk, he shared with us how you can transform a service getting feeds into a generic platform to serve bricks for dev teams.
+He reminded us of the need for refactoring to reduce the accidental and intentional complexity of code.
+This is the talk I recalled the most because we build feeds at Powder (where I work).</p>
+<p><img src="gophercon_09_bill.jpeg" alt="Bill"></p>
+<h4 id="practical-memory-profiling-bill-kennedy">Practical memory profiling, Bill Kennedy</h4>
+<p>Bill stepped up to sadly replace Aditya that could not make it to Berlin. The show could be summed up in one question:
+Bill vs Tyron, how to get a 0 memory allocation algorithm? Bill made a whole story fighting Tyron to turn his algorithm into a 0 memory
+allocation like Tyron&rsquo;s. To do so, he used algorithm benchmarks to measure the memory allocations and the size of the program and then
+iterate using pprof. He fixed line by line where memory was allocated giving examples such as using &amp;Buffer{buf: buf} directly instead
+of bytes.NewBuffer(raw).</p>
+<p>I did get why they said after the workshop: <em>&ldquo;Bill is very good at keeping your attention&rdquo;</em>.</p>
+<h4 id="tinygo-getting-the-upper-hen-donia-chaiehloudj-myself">TinyGo: Getting the upper hen, Donia Chaiehloudj (myself)</h4>
+<p>Mat Ryer co-hosting the event had the great idea of having Ron Evans and Daniel Esteban for my introduction.
+I was very honoured and intimated, of course. The goal of my talk was to give a brief and practical introduction to TinyGo
+and explain how I used it to retrieve temperature and humidity and display values on Grafana dashboards. My whole story was about my
+hens and show a practical life example of TinyGo.</p>
+<p>If you are curious and want to try it, you can check the source code on my <a href="https://github.com/doniacld/tiny-hen">Github</a>.</p>
+<p><img src="gophercon_10_myself.jpeg" alt="Myself on stage"></p>
+<p>I was very nervous at the beginning and when I started I was very focused on delivering my content. I even made some jokes (and people laughed). People seemed happy at the end and I had great feedback from them. Some want to try TinyGo for their van,
+some show me hen pictures, it was a great moment.</p>
+<p>A caption from Mat Ryer twitter while I am blowing on my sensor <a href="https://twitter.com/matryer/status/1553368752388964355">here</a>.</p>
+<h4 id="panel-with-the-go-team-than-macintosh-cameron-balahan-michael-knyszek">Panel with the Go Team, Than Macintosh, Cameron Balahan, Michael Knyszek</h4>
+<p>The Gopher community had the opportunity to ask questions to the Go team and they explained the orientation Go is taking. My 3 key points:</p>
+<p>Generics is the biggest change that happened to Go.
+Some libraries have not changed for a few years because the person in charge left.
+The structure fields optimisation is currently not done by the compiler. For the moment at least because Go must be transparent and it will not be the case if operations were hidden in the compiler. Especially in some cases, the order of the fields is very important, e.g.: protobuf.
+Mat Ryer was a great host (all long), bouncing on people&rsquo;s questions and Go team answers, it was a very insightful panel.</p>
+<p><img src="gophercon_11_firechat.jpeg" alt="Fire chat"></p>
+<h4 id="career-tips-for-software-engineers-adelina-simion">Career tips for software engineers, Adelina Simion</h4>
+<p>Adelina delivered her knowledge and tips about careers path. She said &ldquo;You are the one to take the rising of your career, not your mentor,
+not your team lead&rdquo; which is very true. Again, I feel that being surrounded by brilliant people,
+friends and mentors helps me along the way to build the best career path possible (for me).
+I leave you with the picture below showing the tips for levelling up your tech skills.</p>
+<p><img src="gophercon_12_adelina.jpeg" alt="Adelina"></p>
+<h4 id="go-time">Go Time</h4>
+<p>Mat Ryer went live for a Gophers says game! More than 100 gophers had answered a form about the GopherCon Europe and Go.
+Two teams with brilliant Gophers had to guess the answers from the gophers. I had a blast. You can listen to the episode on <a href="https://changelog.com/gotime/241">Changelog website</a>.</p>
+<p><img src="gophercon_13_gotime.jpeg" alt="Go Time"></p>
+<p>I met amazing people from various companies like Arduino, amazing women, and great gophers! I ended my evening in Berlin visiting the Bundestag which I highly recommend with an audio guide. It gives you an amazing 360 degrees view over Berlin. During the sunset, it is even better.
+I could not attend Sunday because I was leaving but I am very excited to see the replays!</p>
+<p><img src="gophercon_14_sunset.jpeg" alt="Sunset"></p>
+<h2 id="thanking-gophercon-speech">Thanking GopherCon speech</h2>
+<p>I take the opportunity to thank my parents for always being there, my partner being my duck, and for going in the morning to buy a second-hand router to save my project. I would like to thank also my dearest friends Aliénor and Pascal for listening to me rehearsing, and correcting my English, their time, their love and for being at the GopherCon. My friend David for his knowledge about Prometheus and Grafana which helps me get my dashboards to the next level. My mentors Guillaume, Adelina, and Mariana for helping me draft my proposal, without them I will not be there.</p>
+<p>To finish, thanks to the person that accepted my talk and to the organisers, Donna, Natalie and the Gopher community for being inclusive, educational and the coolest.</p>
+<p>If you read the article until here, thanks to you. Let&rsquo;s connect if it&rsquo;s not already the case <a href="https://twitter.com/doniacld">@doniacld</a></p>
+<h2 id="some-more-cool-pictures">Some more cool pictures</h2>
+<p><img src="gophercon_15_head.jpeg" alt="Head shot"></p>
+<p><img src="gophercon_16_tinygo_team.jpeg" alt="TinyGo team"></p>
+
+    </div>
+    
+    
+    
+    
+    
+      
+    
+      
+        
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+    
+    
+    
+    
+    
+    <nav class="article__nav" aria-label="Post navigation">
+      
+      <a href="http://localhost:1313/blog/behind-the-scenes-of-the-gdg-sophia-antipolis/" class="article__nav-link article__nav-link--prev">
+        <span class="article__nav-label">← Previous</span>
+        <span class="article__nav-title">Behind the scenes of the GDG Sophia-Antipolis</span>
+      </a>
+      
+      
+      <a href="http://localhost:1313/blog/2022-time-to-harvest/" class="article__nav-link article__nav-link--next">
+        <span class="article__nav-label">Next →</span>
+        <span class="article__nav-title">2022: Time to Harvest</span>
+      </a>
+      
+    </nav>
+    
+  </article>
+</div>
+
+  </main><footer class="site-footer">
+  <div class="container">
+    <div class="site-footer__inner">
+      <p class="site-footer__copy">
+        &copy; 2026 Donia Chaiehloudj. All rights reserved.
+      </p>
+      
+      <ul class="social-links">
+        <li>
+          <a href="https://github.com/doniacld" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+<svg viewBox="0 0 24 24" fill="currentColor">
+  <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/>
+</svg>
+
+          </a>
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/donia-chaiehloudj" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+<svg viewBox="0 0 24 24" fill="currentColor">
+  <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+</svg>
+
+          </a>
+        </li>
+        <li>
+          <a href="https://bsky.app/profile/doniacld.bsky.social" target="_blank" rel="noopener noreferrer" aria-label="Bluesky">
+<svg viewBox="0 0 24 24" fill="currentColor">
+  <path d="M12 10.8c-1.087-2.114-4.046-6.053-6.798-7.995C2.566.944 1.561 1.266.902 1.565.139 1.908 0 3.08 0 3.768c0 .69.378 5.65.624 6.479.815 2.736 3.713 3.66 6.383 3.364.136-.02.275-.039.415-.056-.138.022-.276.04-.415.056-3.912.58-7.387 2.005-2.83 7.078 5.013 5.19 6.87-1.113 7.823-4.308.953 3.195 2.05 9.271 7.733 4.308 4.267-4.308 1.172-6.498-2.74-7.078a8.741 8.741 0 0 1-.415-.056c.14.017.279.036.415.056 2.67.297 5.568-.628 6.383-3.364.246-.828.624-5.79.624-6.478 0-.69-.139-1.861-.902-2.206-.659-.298-1.664-.62-4.3 1.24C16.046 4.748 13.087 8.687 12 10.8Z"/>
+</svg>
+
+          </a>
+        </li>
+        <li>
+          <a href="https://hachyderm.io/@doniacld" target="_blank" rel="noopener noreferrer" aria-label="Mastodon">
+<svg viewBox="0 0 24 24" fill="currentColor">
+  <path d="M23.268 5.313c-.35-2.578-2.617-4.61-5.304-5.004C17.51.242 15.792 0 11.813 0h-.03c-3.98 0-4.835.242-5.288.309C3.882.692 1.496 2.518.917 5.127.64 6.412.61 7.837.661 9.143c.074 1.874.088 3.745.26 5.611.118 1.24.325 2.47.62 3.68.55 2.237 2.777 4.098 4.96 4.857 2.336.792 4.849.923 7.256.38.265-.061.527-.132.786-.213.585-.184 1.27-.39 1.774-.753a.057.057 0 0 0 .023-.043v-1.809a.052.052 0 0 0-.02-.041.053.053 0 0 0-.046-.01 20.282 20.282 0 0 1-4.709.545c-2.73 0-3.463-1.284-3.674-1.818a5.593 5.593 0 0 1-.319-1.433.053.053 0 0 1 .066-.054c1.517.363 3.072.546 4.632.546.376 0 .75 0 1.125-.01 1.57-.044 3.224-.124 4.768-.422.038-.008.077-.015.11-.024 2.435-.464 4.753-1.92 4.989-5.604.008-.145.03-1.52.03-1.67.002-.512.167-3.63-.024-5.545zm-3.748 9.195h-2.561V8.29c0-1.309-.55-1.976-1.67-1.976-1.23 0-1.846.79-1.846 2.35v3.403h-2.546V8.663c0-1.56-.617-2.35-1.848-2.35-1.112 0-1.668.668-1.67 1.977v6.218H4.822V8.102c0-1.31.337-2.35 1.011-3.12.696-.77 1.608-1.164 2.74-1.164 1.311 0 2.302.5 2.962 1.498l.638 1.06.638-1.06c.66-.999 1.65-1.498 2.96-1.498 1.13 0 2.043.395 2.74 1.164.675.77 1.012 1.81 1.012 3.12z"/>
+</svg>
+
+          </a>
+        </li>
+        <li>
+          <a href="https://doniacld.medium.com/" target="_blank" rel="noopener noreferrer" aria-label="Medium">
+<svg viewBox="0 0 24 24" fill="currentColor">
+  <path d="M13.54 12a6.8 6.8 0 01-6.77 6.82A6.8 6.8 0 010 12a6.8 6.8 0 016.77-6.82A6.8 6.8 0 0113.54 12zM20.96 12c0 3.54-1.51 6.42-3.38 6.42-1.87 0-3.39-2.88-3.39-6.42s1.52-6.42 3.39-6.42 3.38 2.88 3.38 6.42M24 12c0 3.17-.53 5.75-1.19 5.75-.66 0-1.19-2.58-1.19-5.75s.53-5.75 1.19-5.75C23.47 6.25 24 8.83 24 12z"/>
+</svg>
+
+          </a>
+        </li>
+        <li>
+          <a href="/index.xml" target="_blank" rel="noopener noreferrer" aria-label="RSS">
+<svg viewBox="0 0 24 24" fill="currentColor">
+  <path d="M19.199 24C19.199 13.467 10.533 4.8 0 4.8V0c13.165 0 24 10.835 24 24h-4.801zM3.291 17.415c1.814 0 3.293 1.479 3.293 3.295 0 1.813-1.479 3.29-3.293 3.29C1.479 24 0 22.523 0 20.71c0-1.816 1.479-3.295 3.291-3.295zM15.909 24h-4.665c0-6.169-5.075-11.245-11.244-11.245V8.09c8.727 0 15.909 7.184 15.909 15.91z"/>
+</svg>
+
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</footer>
+<script>
+(function() {
+  
+  const themeToggle = document.querySelector('.theme-toggle');
+  
+  function setTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem('theme', theme);
+  }
+  
+  themeToggle.addEventListener('click', function() {
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    setTheme(newTheme);
+  });
+  
+  
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+    if (!localStorage.getItem('theme')) {
+      setTheme(e.matches ? 'dark' : 'light');
+    }
+  });
+  
+  
+  const navToggle = document.querySelector('.nav-toggle');
+  const navMenu = document.querySelector('.site-nav__list');
+  
+  if (navToggle && navMenu) {
+    navToggle.addEventListener('click', function() {
+      const expanded = navToggle.getAttribute('aria-expanded') === 'true';
+      navToggle.setAttribute('aria-expanded', !expanded);
+      navMenu.classList.toggle('is-open');
+    });
+    
+    
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape' && navMenu.classList.contains('is-open')) {
+        navToggle.setAttribute('aria-expanded', 'false');
+        navMenu.classList.remove('is-open');
+        navToggle.focus();
+      }
+    });
+  }
+  
+  
+  const searchTrigger = document.querySelector('.search-trigger');
+  const searchPanel = document.getElementById('search-panel');
+  const searchInput = document.getElementById('global-search-input');
+  const searchResults = document.getElementById('search-results');
+  const searchClose = document.querySelector('.search-panel__close');
+  const searchOverlay = document.querySelector('.search-panel__overlay');
+  
+  let searchIndex = null;
+  let searchTimeout = null;
+  
+  async function loadSearchIndex() {
+    if (searchIndex) return searchIndex;
+    try {
+      const response = await fetch('/index.json');
+      searchIndex = await response.json();
+      return searchIndex;
+    } catch (error) {
+      console.error('Failed to load search index:', error);
+      return [];
+    }
+  }
+  
+  function openSearch() {
+    if (!searchPanel || !searchInput) return;
+    searchPanel.hidden = false;
+    searchInput.focus();
+    document.body.style.overflow = 'hidden';
+    loadSearchIndex();
+  }
+  
+  function closeSearch() {
+    if (!searchPanel || !searchInput || !searchResults) return;
+    searchPanel.hidden = true;
+    searchInput.value = '';
+    document.body.style.overflow = '';
+    searchResults.innerHTML = `
+      <div class="search-panel__hint">
+        <p>Type to search across all content</p>
+        <div class="search-panel__shortcuts">
+          <span><kbd>↵</kbd> to select</span>
+          <span><kbd>esc</kbd> to close</span>
+        </div>
+      </div>
+    `;
+  }
+  
+  function performSearch(query) {
+    if (!searchIndex || !query.trim()) {
+      searchResults.innerHTML = `
+        <div class="search-panel__hint">
+          <p>Type to search across all content</p>
+          <div class="search-panel__shortcuts">
+            <span><kbd>↵</kbd> to select</span>
+            <span><kbd>esc</kbd> to close</span>
+          </div>
+        </div>
+      `;
+      return;
+    }
+    
+    const q = query.toLowerCase();
+    const results = searchIndex.filter(item => 
+      item.title.toLowerCase().includes(q) || 
+      (item.summary && item.summary.toLowerCase().includes(q)) ||
+      (item.tags && item.tags.some(tag => tag.toLowerCase().includes(q)))
+    );
+    
+    if (results.length === 0) {
+      searchResults.innerHTML = `
+        <div class="search-panel__no-results">
+          <p>No results found for "${query}"</p>
+        </div>
+      `;
+      return;
+    }
+    
+    const sectionLabels = {
+      blog: 'Blog',
+      talks: 'Talk',
+      podcasts: 'Podcast',
+      projects: 'Project',
+      about: 'About'
+    };
+    
+    searchResults.innerHTML = `
+      <ul class="search-panel__results-list">
+        ${results.slice(0, 10).map(item => `
+          <li>
+            <a href="${item.url}" class="search-result">
+              <div class="search-result__section">${sectionLabels[item.section] || item.section}</div>
+              <div class="search-result__title">${highlightMatch(item.title, query)}</div>
+              ${item.summary ? `<div class="search-result__summary">${highlightMatch(item.summary, query)}</div>` : ''}
+            </a>
+          </li>
+        `).join('')}
+      </ul>
+      ${results.length > 10 ? `<p style="text-align: center; color: var(--color-muted); font-size: var(--font-size-sm); padding-top: var(--space-4);">Showing 10 of ${results.length} results</p>` : ''}
+    `;
+  }
+  
+  function highlightMatch(text, query) {
+    if (!query) return text;
+    const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+    return text.replace(regex, '<mark>$1</mark>');
+  }
+  
+  
+  if (searchTrigger) {
+    searchTrigger.addEventListener('click', openSearch);
+  }
+  
+  if (searchClose) {
+    searchClose.addEventListener('click', closeSearch);
+  }
+  
+  if (searchOverlay) {
+    searchOverlay.addEventListener('click', closeSearch);
+  }
+  
+  if (searchInput) {
+    searchInput.addEventListener('input', function() {
+      clearTimeout(searchTimeout);
+      searchTimeout = setTimeout(() => performSearch(this.value), 150);
+    });
+  }
+  
+  
+  document.addEventListener('keydown', function(e) {
+    
+    if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+      e.preventDefault();
+      if (searchPanel.hidden) {
+        openSearch();
+      } else {
+        closeSearch();
+      }
+    }
+    
+    
+    if (e.key === 'Escape' && !searchPanel.hidden) {
+      closeSearch();
+    }
+  });
+})();
+</script>
+</body>
+</html>

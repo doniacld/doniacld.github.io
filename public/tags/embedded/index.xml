@@ -16,5 +16,12 @@
       <guid>http://localhost:1313/podcasts/codative-2024/</guid>
       <description>Discussing my journey in hardware programming, why Go is a game-changer for embedded development, and tackling networking challenges in IoT.</description>
     </item>
+    <item>
+      <title>TinyGo Adventures</title>
+      <link>http://localhost:1313/projects/tinygo/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tinygo/</guid>
+      <description>Exploring TinyGo for microcontrollers - from learning experiments to the Tiny Hen project monitoring my hen house, presented at multiple GopherCons.</description>
+    </item>
   </channel>
 </rss>

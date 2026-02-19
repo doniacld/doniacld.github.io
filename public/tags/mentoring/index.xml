@@ -37,5 +37,12 @@
       <guid>http://localhost:1313/podcasts/what06-s1ep01-tech4elles/</guid>
       <description>Saison 1 Épisode 1 - Comment tout a commencé ? Avec Valérie Guillon, Maëva Cecchi et Laure Gajetti, celles qui ont fait battre le cœur du projet Tech4Elles.</description>
     </item>
+    <item>
+      <title>WHAT06 - Women Hackers Action Tank</title>
+      <link>http://localhost:1313/projects/what06/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/what06/</guid>
+      <description>Active member of WHAT06 since 2021, contributing as MC for events, working on the Tech4Elles mentoring app, and hosting the WHAT06 podcast.</description>
+    </item>
   </channel>
 </rss>

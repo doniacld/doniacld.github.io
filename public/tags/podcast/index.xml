@@ -65,5 +65,12 @@
       <guid>http://localhost:1313/podcasts/tranches-de-tech-2024/</guid>
       <description>Épisode 12 du podcast Tranches de Tech où je discute de Go, TinyGo, mon livre Manning, eBPF, Cilium, Docker et les conférences tech.</description>
     </item>
+    <item>
+      <title>WHAT06 - Women Hackers Action Tank</title>
+      <link>http://localhost:1313/projects/what06/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/what06/</guid>
+      <description>Active member of WHAT06 since 2021, contributing as MC for events, working on the Tech4Elles mentoring app, and hosting the WHAT06 podcast.</description>
+    </item>
   </channel>
 </rss>

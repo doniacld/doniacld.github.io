@@ -108,7 +108,7 @@ weight = 6
 
 # Permalinks
 [permalinks]
-  blog = "/blog/:contentbasename/"
+  blog = "/blog/:slug/"
 
 # Output formats
 [outputs]

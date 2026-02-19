@@ -95,17 +95,10 @@
     </item>
     <item>
       <title>2022: Time to Harvest</title>
-      <link>http://localhost:1313/blog/2023-01-16-2022-time-to-harvest/</link>
+      <link>http://localhost:1313/blog/2022-time-to-harvest/</link>
       <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2023-01-16-2022-time-to-harvest/</guid>
+      <guid>http://localhost:1313/blog/2022-time-to-harvest/</guid>
       <description>A reflection on 2022 - a year of community building, public speaking, and personal growth. Discussing accomplishments, challenges, and learnings from a transformative year.</description>
-    </item>
-    <item>
-      <title>Learn Go with Pocket-Sized Projects</title>
-      <link>http://localhost:1313/projects/learn-go-book/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/learn-go-book/</guid>
-      <description>Co-authoring a book at Manning to teach Go through end-to-end projects with Aliénor Latour and Pascal Bertrand.</description>
     </item>
     <item>
       <title>TinyGo: Getting the Upper Hen</title>
@@ -151,9 +144,9 @@
     </item>
     <item>
       <title>My GopherCon Europe 2022 Highlights</title>
-      <link>http://localhost:1313/blog/2022-08-05-my-gophercon-europe-2022-highlights/</link>
+      <link>http://localhost:1313/blog/my-gophercon-europe-2022-highlights/</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2022-08-05-my-gophercon-europe-2022-highlights/</guid>
+      <guid>http://localhost:1313/blog/my-gophercon-europe-2022-highlights/</guid>
       <description>A detailed recap of my first conference talk experience at GopherCon Europe 2022 in Berlin - from preparation to delivery, including talks attended and amazing people met.</description>
     </item>
     <item>
@@ -164,25 +157,11 @@
       <description>My first major conference talk! A practical introduction to TinyGo through monitoring my hen house with microcontrollers and sensors.</description>
     </item>
     <item>
-      <title>Tiny Hen</title>
-      <link>http://localhost:1313/projects/tiny-hen/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/tiny-hen/</guid>
-      <description>Monitoring my hen house using TinyGo - reading temperature and humidity sensors and displaying data on Grafana dashboards.</description>
-    </item>
-    <item>
       <title>Honey, Let&#39;s Shrink The Gophers! (TinyGo Introduction)</title>
       <link>http://localhost:1313/talks/tinygo-intro-wtm-berlin-2022/</link>
       <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/talks/tinygo-intro-wtm-berlin-2022/</guid>
       <description>An introduction to TinyGo for beginners - my first ever tech talk, delivered remotely for Women Techmakers Berlin.</description>
-    </item>
-    <item>
-      <title>TinyGo Exploration</title>
-      <link>http://localhost:1313/projects/tinygo-discovery/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/tinygo-discovery/</guid>
-      <description>Sample Go codes for microcontrollers - a collection of experiments and learning materials for TinyGo.</description>
     </item>
     <item>
       <title>ChangeBlogging my first Hacktoberfest 2021</title>
@@ -193,9 +172,9 @@
     </item>
     <item>
       <title>ChangeBlogging my first Hacktoberfest 2021</title>
-      <link>http://localhost:1313/blog/2021-11-05-hacktoberfest-2021/</link>
+      <link>http://localhost:1313/blog/changeblogging-my-first-hacktoberfest-2021/</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/2021-11-05-hacktoberfest-2021/</guid>
+      <guid>http://localhost:1313/blog/changeblogging-my-first-hacktoberfest-2021/</guid>
       <description>Walking through one month of my open source contributions during Hacktoberfest 2021 - overcoming fears, making first contributions, and discovering the rewarding world of open source.</description>
     </item>
     <item>
@@ -204,6 +183,13 @@
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/open-source-contributions/</guid>
       <description>Contributing to various open source projects including revive (Go linter), TinyGo drivers, and GoBadge.</description>
+    </item>
+    <item>
+      <title>TinyGo Adventures</title>
+      <link>http://localhost:1313/projects/tinygo/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tinygo/</guid>
+      <description>Exploring TinyGo for microcontrollers - from learning experiments to the Tiny Hen project monitoring my hen house, presented at multiple GopherCons.</description>
     </item>
   </channel>
 </rss>

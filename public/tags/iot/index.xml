@@ -38,18 +38,11 @@
       <description>My first major conference talk! A practical introduction to TinyGo through monitoring my hen house with microcontrollers and sensors.</description>
     </item>
     <item>
-      <title>Tiny Hen</title>
-      <link>http://localhost:1313/projects/tiny-hen/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/tiny-hen/</guid>
-      <description>Monitoring my hen house using TinyGo - reading temperature and humidity sensors and displaying data on Grafana dashboards.</description>
-    </item>
-    <item>
-      <title>TinyGo Exploration</title>
-      <link>http://localhost:1313/projects/tinygo-discovery/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/tinygo-discovery/</guid>
-      <description>Sample Go codes for microcontrollers - a collection of experiments and learning materials for TinyGo.</description>
+      <title>TinyGo Adventures</title>
+      <link>http://localhost:1313/projects/tinygo/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tinygo/</guid>
+      <description>Exploring TinyGo for microcontrollers - from learning experiments to the Tiny Hen project monitoring my hen house, presented at multiple GopherCons.</description>
     </item>
   </channel>
 </rss>

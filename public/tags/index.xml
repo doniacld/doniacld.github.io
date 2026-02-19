@@ -317,40 +317,5 @@
       <guid>http://localhost:1313/tags/cloud/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Learning</title>
-      <link>http://localhost:1313/tags/learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/learning/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Monitoring</title>
-      <link>http://localhost:1313/tags/monitoring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/monitoring/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teaching</title>
-      <link>http://localhost:1313/tags/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/teaching/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech-Community</title>
-      <link>http://localhost:1313/tags/tech-community/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tech-community/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tech-Events</title>
-      <link>http://localhost:1313/tags/tech-events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tech-events/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
