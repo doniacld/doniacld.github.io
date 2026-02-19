@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="container container--wide">
+  <header class="page-header">
+    <h1 class="page-header__title">Blog</h1>
+    <p class="page-header__description">Thoughts on Go, cloud, community, and career</p>
+  </header>
+  
+  <!-- Posts list -->
+  <div class="post-cards">
+    {{ range .Pages.ByDate.Reverse }}
+    <article class="post-card">
+      <a href="{{ .Permalink }}" class="post-card__link">
+        <h2 class="post-card__title">{{ .Title }}</h2>
+        <p class="post-card__summary">
+          {{ with .Params.summary }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 200 }}{{ end }}
+        </p>
+        <div class="post-card__meta">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+          <span class="post-card__author">· {{ .Site.Params.author | default "Donia Chaiehloudj" }}</span>
+        </div>
+      </a>
+      {{ with .Params.tags }}
+      <div class="post-card__tags">
+        {{ range first 3 . }}
+        <span class="tag tag--small">{{ . }}</span>
+        {{ end }}
+      </div>
+      {{ end }}
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

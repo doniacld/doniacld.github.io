@@ -1,0 +1,60 @@
+{{ define "main" }}
+<div class="container">
+  <article class="article">
+    <header class="article__header">
+      <h1 class="article__title">{{ .Title }}</h1>
+      <div class="article__meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        {{ with .Params.tags }}
+        <span class="tags">
+          {{ range . }}
+          <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">{{ . }}</a>
+          {{ end }}
+        </span>
+        {{ end }}
+      </div>
+    </header>
+    
+    {{/* Table of Contents */}}
+    {{ if and (.Params.toc | default true) (gt (len .TableOfContents) 100) }}
+    <aside class="toc">
+      <p class="toc__title">Table of Contents</p>
+      {{ .TableOfContents }}
+    </aside>
+    {{ end }}
+    
+    <div class="article__content">
+      {{ .Content }}
+    </div>
+    
+    {{/* Navigation */}}
+    {{ $pages := where .Site.RegularPages "Section" "blog" }}
+    {{ $currentIndex := 0 }}
+    {{ range $index, $page := $pages.ByDate.Reverse }}
+      {{ if eq $page.Permalink $.Permalink }}
+        {{ $currentIndex = $index }}
+      {{ end }}
+    {{ end }}
+    
+    {{ $prev := index ($pages.ByDate.Reverse) (add $currentIndex 1) }}
+    {{ $next := index ($pages.ByDate.Reverse) (sub $currentIndex 1) }}
+    
+    {{ if or $prev $next }}
+    <nav class="article__nav" aria-label="Post navigation">
+      {{ with $prev }}
+      <a href="{{ .Permalink }}" class="article__nav-link article__nav-link--prev">
+        <span class="article__nav-label">← Previous</span>
+        <span class="article__nav-title">{{ .Title }}</span>
+      </a>
+      {{ end }}
+      {{ with $next }}
+      <a href="{{ .Permalink }}" class="article__nav-link article__nav-link--next">
+        <span class="article__nav-label">Next →</span>
+        <span class="article__nav-title">{{ .Title }}</span>
+      </a>
+      {{ end }}
+    </nav>
+    {{ end }}
+  </article>
+</div>
+{{ end }}

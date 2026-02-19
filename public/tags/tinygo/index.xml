@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TinyGo on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/tinygo/</link>
+    <description>Recent content in TinyGo on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tinygo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Hardware Programming, Go, &amp; Networking in Embedded Systems</title>
+      <link>http://localhost:1313/podcasts/codative-2024/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/codative-2024/</guid>
+      <description>Discussing my journey in hardware programming, why Go is a game-changer for embedded development, and tackling networking challenges in IoT.</description>
+    </item>
+    <item>
+      <title>Je vois des Gophers partout</title>
+      <link>http://localhost:1313/podcasts/tranches-de-tech-2024/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/tranches-de-tech-2024/</guid>
+      <description>Épisode 12 du podcast Tranches de Tech où je discute de Go, TinyGo, mon livre Manning, eBPF, Cilium, Docker et les conférences tech.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen</title>
+      <link>http://localhost:1313/talks/tinygo-gowest-2022/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gowest-2022/</guid>
+      <description>A practical introduction to TinyGo through a real-world project - monitoring a hen house with microcontrollers, sensors, and Grafana dashboards.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen</title>
+      <link>http://localhost:1313/talks/tinygo-gophercon-us-2022/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gophercon-us-2022/</guid>
+      <description>A practical introduction to TinyGo through a real-world project - monitoring a hen house with microcontrollers, sensors, and Grafana dashboards.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen (Long Version)</title>
+      <link>http://localhost:1313/talks/tinygo-gophercon-uk-2022/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gophercon-uk-2022/</guid>
+      <description>An extended deep-dive into TinyGo through building a hen house monitoring system - covering hardware setup, sensor integration, and data visualization.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen</title>
+      <link>http://localhost:1313/talks/tinygo-gophercon-europe-2022/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gophercon-europe-2022/</guid>
+      <description>My first major conference talk! A practical introduction to TinyGo through monitoring my hen house with microcontrollers and sensors.</description>
+    </item>
+    <item>
+      <title>Tiny Hen</title>
+      <link>http://localhost:1313/projects/tiny-hen/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tiny-hen/</guid>
+      <description>Monitoring my hen house using TinyGo - reading temperature and humidity sensors and displaying data on Grafana dashboards.</description>
+    </item>
+    <item>
+      <title>Honey, Let&#39;s Shrink The Gophers! (TinyGo Introduction)</title>
+      <link>http://localhost:1313/talks/tinygo-intro-wtm-berlin-2022/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-intro-wtm-berlin-2022/</guid>
+      <description>An introduction to TinyGo for beginners - my first ever tech talk, delivered remotely for Women Techmakers Berlin.</description>
+    </item>
+    <item>
+      <title>TinyGo Exploration</title>
+      <link>http://localhost:1313/projects/tinygo-discovery/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tinygo-discovery/</guid>
+      <description>Sample Go codes for microcontrollers - a collection of experiments and learning materials for TinyGo.</description>
+    </item>
+    <item>
+      <title>Open Source Contributions</title>
+      <link>http://localhost:1313/projects/open-source-contributions/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/open-source-contributions/</guid>
+      <description>Contributing to various open source projects including revive (Go linter), TinyGo drivers, and GoBadge.</description>
+    </item>
+  </channel>
+</rss>

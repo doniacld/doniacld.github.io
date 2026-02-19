@@ -1,0 +1,62 @@
+{{ define "main" }}
+<div class="container container--wide">
+  <header class="page-header">
+    <h1 class="page-header__title">
+      <span class="page-header__label">Tag:</span> {{ .Title }}
+    </h1>
+    <p class="page-header__description">{{ len .Pages }} {{ if eq (len .Pages) 1 }}item{{ else }}items{{ end }} tagged with "{{ .Title }}"</p>
+    <a href="/tags/" class="page-header__back">← All tags</a>
+  </header>
+  
+  <div class="taxonomy-content">
+    {{ $blogPosts := where .Pages "Section" "blog" }}
+    {{ $talks := where .Pages "Section" "talks" }}
+    {{ $podcasts := where .Pages "Section" "podcasts" }}
+    {{ $projects := where .Pages "Section" "projects" }}
+    
+    {{ if $blogPosts }}
+    <section class="taxonomy-section">
+      <h2 class="taxonomy-section__title">Blog Posts</h2>
+      <div class="post-cards">
+        {{ range $blogPosts.ByDate.Reverse }}
+        {{ partial "post-card.html" . }}
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+    
+    {{ if $talks }}
+    <section class="taxonomy-section">
+      <h2 class="taxonomy-section__title">Talks</h2>
+      <div class="card-grid">
+        {{ range $talks.ByDate.Reverse }}
+        {{ partial "card-talk.html" . }}
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+    
+    {{ if $podcasts }}
+    <section class="taxonomy-section">
+      <h2 class="taxonomy-section__title">Podcasts</h2>
+      <div class="card-grid">
+        {{ range $podcasts.ByDate.Reverse }}
+        {{ partial "card-podcast.html" . }}
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+    
+    {{ if $projects }}
+    <section class="taxonomy-section">
+      <h2 class="taxonomy-section__title">Projects</h2>
+      <div class="card-grid">
+        {{ range $projects.ByDate.Reverse }}
+        {{ partial "card-project.html" . }}
+        {{ end }}
+      </div>
+    </section>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

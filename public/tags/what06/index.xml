@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WHAT06 on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/what06/</link>
+    <description>Recent content in WHAT06 on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/what06/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WHAT06: Parcoursup 2026 - Conseils pour faire les bons choix d&#39;orientation</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep04-parcoursup/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep04-parcoursup/</guid>
+      <description>Saison 1 Épisode 4 - Karine Lafont, experte Parcoursup, partage son retour d&amp;rsquo;expérience et ses meilleurs conseils pour aborder Parcoursup sereinement.</description>
+    </item>
+    <item>
+      <title>WHAT06: Iryna et Louise - La team UX de marraine-filleule</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep03-iryna-louise/</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep03-iryna-louise/</guid>
+      <description>Saison 1 Épisode 3 - L&amp;rsquo;histoire d&amp;rsquo;Iryna et Louise, un binôme marraine–filleule formé grâce à l&amp;rsquo;appli Tech4Elles autour de l&amp;rsquo;UX/UI design.</description>
+    </item>
+    <item>
+      <title>WHAT06: Code, crash et persévérance</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep02-code-crash/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep02-code-crash/</guid>
+      <description>Saison 1 Épisode 2 - Dans les coulisses de l&amp;rsquo;appli Tech4Elles avec Ouiza &amp;amp; Y-Meuil. Comment décider ce qui compte vraiment pour les filleules et les marraines.</description>
+    </item>
+    <item>
+      <title>WHAT06: Les poumons de Tech4Elles, l&#39;application de mentoring</title>
+      <link>http://localhost:1313/podcasts/what06-s1ep01-tech4elles/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/what06-s1ep01-tech4elles/</guid>
+      <description>Saison 1 Épisode 1 - Comment tout a commencé ? Avec Valérie Guillon, Maëva Cecchi et Laure Gajetti, celles qui ont fait battre le cœur du projet Tech4Elles.</description>
+    </item>
+  </channel>
+</rss>

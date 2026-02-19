@@ -1,0 +1,71 @@
+{{ define "main" }}
+<div class="container container--wide">
+  {{/* Intro Section */}}
+  <section class="intro">
+    <h1 class="intro__title">Hi!</h1>
+    <p class="intro__text">
+      I'm Donia Chaiehloudj, a Software Engineer and community oriented working at Isovalent @Cisco.
+    </p>
+    <p class="intro__text">
+      I am currently focusing on open source, Cilium and eBPF but I am also passionate about Go (you can even buy the <a href="/book/">book "Learn Go with Pocket-Sized Projects"</a> I co-wrote with Aliénor Latour and Pascal Bertrand). Let's connect!
+    </p>
+    
+    <div class="social-icons">
+      {{- range .Site.Params.social }}
+      <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ .name }}">
+        {{- partial "icons/social.html" .icon }}
+      </a>
+      {{- end }}
+    </div>
+  </section>
+  
+  {{/* Latest Blog Posts */}}
+  {{ $posts := where .Site.RegularPages "Section" "blog" }}
+  {{ if $posts }}
+  <section class="section">
+    <div class="section__header">
+      <h2 class="section__title">Latest Blog Posts</h2>
+      <a href="/blog/" class="section__link">View all →</a>
+    </div>
+    <div class="post-cards">
+      {{ range first 2 $posts }}
+      {{ partial "post-card.html" . }}
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+  
+  {{/* Latest Talks */}}
+  {{ $talks := where .Site.RegularPages "Section" "talks" }}
+  {{ if $talks }}
+  <section class="section">
+    <div class="section__header">
+      <h2 class="section__title">Latest Talks</h2>
+      <a href="/talks/" class="section__link">View all →</a>
+    </div>
+    <div class="card-grid">
+      {{ range first 2 $talks }}
+      {{ partial "card-talk.html" . }}
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+  
+  {{/* Latest Podcasts */}}
+  {{ $podcasts := where .Site.RegularPages "Section" "podcasts" }}
+  {{ if $podcasts }}
+  <section class="section">
+    <div class="section__header">
+      <h2 class="section__title">Latest Podcasts</h2>
+      <a href="/podcasts/" class="section__link">View all →</a>
+    </div>
+    <div class="card-grid">
+      {{ range first 2 $podcasts }}
+      {{ partial "card-podcast.html" . }}
+      {{ end }}
+    </div>
+  </section>
+  {{ end }}
+  
+</div>
+{{ end }}

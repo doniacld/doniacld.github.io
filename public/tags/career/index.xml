@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/career/</link>
+    <description>Recent content in Career on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Être une femme dans la Tech</title>
+      <link>http://localhost:1313/podcasts/muscle-ta-repartie-2025/</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/muscle-ta-repartie-2025/</guid>
+      <description>Partage de mon expérience en tant que femme dans la Tech et mes conseils pour la féminiser. Discussion sur WHAT06, les situations rencontrées et comment réagir.</description>
+    </item>
+    <item>
+      <title>Working in regulated industries, QA to SWE, and public speaking</title>
+      <link>http://localhost:1313/podcasts/glich-stream-2024/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/glich-stream-2024/</guid>
+      <description>Discussing my transition from QA to software development, working in aerospace, moving to startups, contributing to open source, public speaking, and co-authoring a Go book.</description>
+    </item>
+    <item>
+      <title>Go, Community, and Learning</title>
+      <link>http://localhost:1313/podcasts/ardan-labs-2024/</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/ardan-labs-2024/</guid>
+      <description>Discussing my diverse career journey, from image processing and electronics to Go development in the cloud-native space, community leadership, and balancing career with motherhood.</description>
+    </item>
+    <item>
+      <title>So many Go books, so little time!</title>
+      <link>http://localhost:1313/podcasts/cup-o-go-2023/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/cup-o-go-2023/</guid>
+      <description>Interview with Jonathan Hall and Adelina Simion about my journey, working at Isovalent on Cilium, and co-authoring Learn Go with Pocket-Sized Projects.</description>
+    </item>
+    <item>
+      <title>‍👩🏽‍🌾 2022: Time to Harvest</title>
+      <link>http://localhost:1313/posts/2023-01-16-2022-time-to-harvest/</link>
+      <pubDate>Mon, 16 Jan 2023 11:36:31 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2023-01-16-2022-time-to-harvest/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;If I had to describe 2022 in three words: community, travel, and fatigue.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Like many of us, I am looking toward the past at this end of the year, by writing a few lines.&#xA;When a cycle is finished, I do appreciate looking back just to enjoy the new one coming.&#xA;In reality, cycles are part of our life without being calendars. Talking about calendars,&#xA;I tend to prefer birthdays instead of the new year. I feel 2022 is a watershed moment in my life, and I wanted to set&#xA;it in stone by writing this article.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2022: Time to Harvest</title>
+      <link>http://localhost:1313/blog/2023-01-16-2022-time-to-harvest/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023-01-16-2022-time-to-harvest/</guid>
+      <description>A reflection on 2022 - a year of community building, public speaking, and personal growth. Discussing accomplishments, challenges, and learnings from a transformative year.</description>
+    </item>
+    <item>
+      <title>My GopherCon Europe 2022 Highlights</title>
+      <link>http://localhost:1313/posts/2022-08-05-my-gophercon-europe-2022-highlights/</link>
+      <pubDate>Fri, 05 Aug 2022 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2022-08-05-my-gophercon-europe-2022-highlights/</guid>
+      <description>&lt;p&gt;Last week, I gave my first talk on a stage at a conference with a mic and everything: this happened at &lt;a href=&#34;https://gophercon.eu/&#34;&gt;GopherCon Europe&lt;/a&gt;.&#xA;It was an amazing and enriching experience. I wanted to share with you the story behind it and a sum up of the talks I attended.&lt;/p&gt;&#xA;&lt;p&gt;TL;DR: If you are only interested in the recap of the conference, you can skip directly to the “Berlin, an underground city” section.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My GopherCon Europe 2022 Highlights</title>
+      <link>http://localhost:1313/blog/2022-08-05-my-gophercon-europe-2022-highlights/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-08-05-my-gophercon-europe-2022-highlights/</guid>
+      <description>A detailed recap of my first conference talk experience at GopherCon Europe 2022 in Berlin - from preparation to delivery, including talks attended and amazing people met.</description>
+    </item>
+    <item>
+      <title>My Top 5 Women Motivational Speakers in Cloud-Native Development</title>
+      <link>http://localhost:1313/posts/2021-11-23-top-5-women-cloud-native-dev/</link>
+      <pubDate>Tue, 23 Nov 2021 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2021-11-23-top-5-women-cloud-native-dev/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;top-5-women-in-cloud.png&#34; alt=&#34;Top 5 Women In Tech&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;They are CNCF ambassadors, Docker captains, or AWS heroes. The &lt;strong&gt;women in tech are the game-changers of cloud-native development&lt;/strong&gt;, sharing their knowledge about containers, Kubernetes, Docker, or DevOps topics. They inspire the new generation of girls entering into the STEM universe.&lt;/p&gt;&#xA;&lt;p&gt;Diversity is crucial in a successful company by bringing different perspectives to solve a problem, understand all customers and overall coming up with the right solutions to challenges.&lt;br&gt;&#xA;We find many organizations preaching the importance of having female figures to identify and inspire young girls (meaning less than 18 yo) to venture into tech paths.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Top 5 Women Motivational Speakers in Cloud-Native Development</title>
+      <link>http://localhost:1313/blog/2021-11-23-top-5-women-cloud-native-dev/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2021-11-23-top-5-women-cloud-native-dev/</guid>
+      <description>Bringing the importance of role models and sharing my top 5 women speakers in cloud-native development - CNCF ambassadors, Docker captains, and AWS heroes inspiring the next generation.</description>
+    </item>
+  </channel>
+</rss>

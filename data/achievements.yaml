@@ -1,0 +1,45 @@
+items:
+  - title: "Google Developer Expert (GDE) - Go"
+    description: "Recognized by Google for expertise in Go and community contributions"
+    year: "2023"
+    icon: "🏆"
+    
+  - title: "Women Techmaker Ambassador"
+    description: "Promoting women in tech and supporting the Women Techmakers community"
+    year: "2022"
+    icon: "🌟"
+    
+  - title: "GDG Sophia-Antipolis Founder"
+    description: "Founded and organized the Google Developer Group chapter in the south of France"
+    year: "2022"
+    icon: "🎯"
+    
+  - title: "TinyGo Project Organizer"
+    description: "Granted organizer status in the TinyGo open source community"
+    year: "2022"
+    icon: "🔧"
+    
+  - title: "Women Developer Academy Graduate"
+    description: "Completed the Google Women Developer Academy program in Europe"
+    year: "2022"
+    icon: "🎓"
+    
+  - title: "WHAT06 Team Member"
+    description: "Contributing to Women Hackers Action Tank to promote women in tech in the south of France"
+    year: "2022"
+    icon: "💪"
+    
+  - title: "First GopherCon Talk"
+    description: "Delivered my first major conference talk at GopherCon Europe 2022 in Berlin"
+    year: "2022"
+    icon: "🎤"
+    
+  - title: "Book Co-Author"
+    description: "Co-authoring 'Learn Go with Pocket-Sized Projects' at Manning Publications"
+    year: "2023"
+    icon: "📚"
+    
+  - title: "Hacktoberfest Completion"
+    description: "Successfully completed my first Hacktoberfest, starting my open source journey"
+    year: "2021"
+    icon: "🎃"

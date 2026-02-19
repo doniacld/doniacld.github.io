@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GDG on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/gdg/</link>
+    <description>Recent content in GDG on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gdg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sécurise ton réseau avec la magie d&#39;eBPF</title>
+      <link>http://localhost:1313/talks/securing-networks-ebpf/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/securing-networks-ebpf/</guid>
+      <description>Comment utiliser eBPF pour sécuriser les réseaux - filtrage, monitoring et protection de l&amp;rsquo;infrastructure.</description>
+    </item>
+    <item>
+      <title>À la découverte de Go</title>
+      <link>http://localhost:1313/talks/decouverte-go/</link>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/decouverte-go/</guid>
+      <description>Une introduction au langage Go - découverte des fondamentaux, démo en direct, et networking autour d&amp;rsquo;un verre.</description>
+    </item>
+    <item>
+      <title>Google Developer Group Sophia-Antipolis</title>
+      <link>http://localhost:1313/projects/gdg-sophia-antipolis/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/gdg-sophia-antipolis/</guid>
+      <description>Running tech events for the local developer community in the south of France - monthly talks, workshops, and community building.</description>
+    </item>
+  </channel>
+</rss>

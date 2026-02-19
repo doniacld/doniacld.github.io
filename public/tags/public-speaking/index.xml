@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public-Speaking on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/public-speaking/</link>
+    <description>Recent content in Public-Speaking on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/public-speaking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Working in regulated industries, QA to SWE, and public speaking</title>
+      <link>http://localhost:1313/podcasts/glich-stream-2024/</link>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/glich-stream-2024/</guid>
+      <description>Discussing my transition from QA to software development, working in aerospace, moving to startups, contributing to open source, public speaking, and co-authoring a Go book.</description>
+    </item>
+    <item>
+      <title>‍👩🏽‍🌾 2022: Time to Harvest</title>
+      <link>http://localhost:1313/posts/2023-01-16-2022-time-to-harvest/</link>
+      <pubDate>Mon, 16 Jan 2023 11:36:31 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2023-01-16-2022-time-to-harvest/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;If I had to describe 2022 in three words: community, travel, and fatigue.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Like many of us, I am looking toward the past at this end of the year, by writing a few lines.&#xA;When a cycle is finished, I do appreciate looking back just to enjoy the new one coming.&#xA;In reality, cycles are part of our life without being calendars. Talking about calendars,&#xA;I tend to prefer birthdays instead of the new year. I feel 2022 is a watershed moment in my life, and I wanted to set&#xA;it in stone by writing this article.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2022: Time to Harvest</title>
+      <link>http://localhost:1313/blog/2023-01-16-2022-time-to-harvest/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2023-01-16-2022-time-to-harvest/</guid>
+      <description>A reflection on 2022 - a year of community building, public speaking, and personal growth. Discussing accomplishments, challenges, and learnings from a transformative year.</description>
+    </item>
+    <item>
+      <title>My GopherCon Europe 2022 Highlights</title>
+      <link>http://localhost:1313/posts/2022-08-05-my-gophercon-europe-2022-highlights/</link>
+      <pubDate>Fri, 05 Aug 2022 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2022-08-05-my-gophercon-europe-2022-highlights/</guid>
+      <description>&lt;p&gt;Last week, I gave my first talk on a stage at a conference with a mic and everything: this happened at &lt;a href=&#34;https://gophercon.eu/&#34;&gt;GopherCon Europe&lt;/a&gt;.&#xA;It was an amazing and enriching experience. I wanted to share with you the story behind it and a sum up of the talks I attended.&lt;/p&gt;&#xA;&lt;p&gt;TL;DR: If you are only interested in the recap of the conference, you can skip directly to the “Berlin, an underground city” section.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My GopherCon Europe 2022 Highlights</title>
+      <link>http://localhost:1313/blog/2022-08-05-my-gophercon-europe-2022-highlights/</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2022-08-05-my-gophercon-europe-2022-highlights/</guid>
+      <description>A detailed recap of my first conference talk experience at GopherCon Europe 2022 in Berlin - from preparation to delivery, including talks attended and amazing people met.</description>
+    </item>
+  </channel>
+</rss>

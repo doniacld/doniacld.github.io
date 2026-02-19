@@ -1,0 +1,58 @@
+{{ define "main" }}
+<div class="container">
+  <article class="article">
+    <header class="article__header">
+      <h1 class="article__title">{{ .Title }}</h1>
+      <div class="article__meta">
+        {{ with .Params.event }}<span>{{ . }}</span>{{ end }}
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2006" }}</time>
+        {{ with .Params.location }}<span>{{ . }}</span>{{ end }}
+      </div>
+      {{ with .Params.tags }}
+      <div class="tags" style="justify-content: center; margin-top: var(--space-4);">
+        {{ range . }}
+        <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">{{ . }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+    </header>
+    
+    {{/* Video embed */}}
+    {{ with .Params.video_url }}
+    {{ if findRE "youtube" . }}
+    {{ $videoId := replaceRE ".*(?:youtu.be/|v=|embed/)([^&?#]+).*" "$1" . }}
+    <div class="video-wrapper">
+      <iframe 
+        src="https://www.youtube.com/embed/{{ $videoId }}" 
+        title="{{ $.Title }}" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+      </iframe>
+    </div>
+    {{ end }}
+    {{ end }}
+    
+    {{/* Links */}}
+    {{ if or .Params.slides_url .Params.video_url .Params.event_url .Params.source_post }}
+    <div style="display: flex; gap: var(--space-4); justify-content: center; margin: var(--space-8) 0; flex-wrap: wrap;">
+      {{ with .Params.video_url }}
+      <a href="{{ . }}" class="btn btn--secondary" target="_blank" rel="noopener">Watch Video</a>
+      {{ end }}
+      {{ with .Params.slides_url }}
+      <a href="{{ . }}" class="btn btn--secondary" target="_blank" rel="noopener">View Slides</a>
+      {{ end }}
+      {{ with .Params.event_url }}
+      <a href="{{ . }}" class="btn btn--secondary" target="_blank" rel="noopener">Event Page</a>
+      {{ end }}
+      {{ with .Params.source_post }}
+      <a href="{{ . }}" class="btn btn--secondary">Read Related Post</a>
+      {{ end }}
+    </div>
+    {{ end }}
+    
+    <div class="article__content">
+      {{ .Content }}
+    </div>
+  </article>
+</div>
+{{ end }}

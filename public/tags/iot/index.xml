@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IoT on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/iot/</link>
+    <description>Recent content in IoT on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Sat, 15 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/iot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TinyGo: Getting the Upper Hen</title>
+      <link>http://localhost:1313/talks/tinygo-gowest-2022/</link>
+      <pubDate>Sat, 15 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gowest-2022/</guid>
+      <description>A practical introduction to TinyGo through a real-world project - monitoring a hen house with microcontrollers, sensors, and Grafana dashboards.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen</title>
+      <link>http://localhost:1313/talks/tinygo-gophercon-us-2022/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gophercon-us-2022/</guid>
+      <description>A practical introduction to TinyGo through a real-world project - monitoring a hen house with microcontrollers, sensors, and Grafana dashboards.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen (Long Version)</title>
+      <link>http://localhost:1313/talks/tinygo-gophercon-uk-2022/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gophercon-uk-2022/</guid>
+      <description>An extended deep-dive into TinyGo through building a hen house monitoring system - covering hardware setup, sensor integration, and data visualization.</description>
+    </item>
+    <item>
+      <title>TinyGo: Getting the Upper Hen</title>
+      <link>http://localhost:1313/talks/tinygo-gophercon-europe-2022/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/talks/tinygo-gophercon-europe-2022/</guid>
+      <description>My first major conference talk! A practical introduction to TinyGo through monitoring my hen house with microcontrollers and sensors.</description>
+    </item>
+    <item>
+      <title>Tiny Hen</title>
+      <link>http://localhost:1313/projects/tiny-hen/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tiny-hen/</guid>
+      <description>Monitoring my hen house using TinyGo - reading temperature and humidity sensors and displaying data on Grafana dashboards.</description>
+    </item>
+    <item>
+      <title>TinyGo Exploration</title>
+      <link>http://localhost:1313/projects/tinygo-discovery/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/tinygo-discovery/</guid>
+      <description>Sample Go codes for microcontrollers - a collection of experiments and learning materials for TinyGo.</description>
+    </item>
+  </channel>
+</rss>

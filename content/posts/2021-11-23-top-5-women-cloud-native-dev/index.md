@@ -3,7 +3,7 @@ title: "My Top 5 Women Motivational Speakers in Cloud-Native Development"
 date: 2021-11-23T11:06:48+06:00
 description: "Bringing the importance of role models and sharing my top 5 women speakers in cloud-native development."
 tags:
-- women-in-tech
+- Women in Tech
 - career
 ---
 ![Top 5 Women In Tech](top-5-women-in-cloud.png)

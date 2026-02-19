@@ -2,7 +2,7 @@
 title: "Behind the scenes of the GDG Sophia-Antipolis"
 date: 2022-05-11T11:06:48+06:00
 tags:
-- tech-community
+- Community
 ---
 
 ![](gdg-sophia-antipolis.jpeg)

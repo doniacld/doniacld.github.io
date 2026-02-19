@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/book/</link>
+    <description>Recent content in Book on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So many Go books, so little time!</title>
+      <link>http://localhost:1313/podcasts/cup-o-go-2023/</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/cup-o-go-2023/</guid>
+      <description>Interview with Jonathan Hall and Adelina Simion about my journey, working at Isovalent on Cilium, and co-authoring Learn Go with Pocket-Sized Projects.</description>
+    </item>
+    <item>
+      <title>Learn Go with Pocket-Sized Projects</title>
+      <link>http://localhost:1313/podcasts/bug-hunters-cafe-2023/</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/bug-hunters-cafe-2023/</guid>
+      <description>With my co-authors Aliénor Latour and Pascal Bertrand, we discuss what makes Go tick and share strange bugs we&amp;rsquo;ve encountered across our diverse experiences as software engineers.</description>
+    </item>
+  </channel>
+</rss>

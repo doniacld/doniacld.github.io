@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Mon, 16 Jan 2023 11:36:31 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>‍👩🏽‍🌾 2022: Time to Harvest</title>
+      <link>http://localhost:1313/posts/2023-01-16-2022-time-to-harvest/</link>
+      <pubDate>Mon, 16 Jan 2023 11:36:31 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2023-01-16-2022-time-to-harvest/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;If I had to describe 2022 in three words: community, travel, and fatigue.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Like many of us, I am looking toward the past at this end of the year, by writing a few lines.&#xA;When a cycle is finished, I do appreciate looking back just to enjoy the new one coming.&#xA;In reality, cycles are part of our life without being calendars. Talking about calendars,&#xA;I tend to prefer birthdays instead of the new year. I feel 2022 is a watershed moment in my life, and I wanted to set&#xA;it in stone by writing this article.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My GopherCon Europe 2022 Highlights</title>
+      <link>http://localhost:1313/posts/2022-08-05-my-gophercon-europe-2022-highlights/</link>
+      <pubDate>Fri, 05 Aug 2022 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2022-08-05-my-gophercon-europe-2022-highlights/</guid>
+      <description>&lt;p&gt;Last week, I gave my first talk on a stage at a conference with a mic and everything: this happened at &lt;a href=&#34;https://gophercon.eu/&#34;&gt;GopherCon Europe&lt;/a&gt;.&#xA;It was an amazing and enriching experience. I wanted to share with you the story behind it and a sum up of the talks I attended.&lt;/p&gt;&#xA;&lt;p&gt;TL;DR: If you are only interested in the recap of the conference, you can skip directly to the “Berlin, an underground city” section.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Behind the scenes of the GDG Sophia-Antipolis</title>
+      <link>http://localhost:1313/posts/2022-05-11-behind-the-scenes-gdg-sophia-antipolis/</link>
+      <pubDate>Wed, 11 May 2022 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2022-05-11-behind-the-scenes-gdg-sophia-antipolis/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;gdg-sophia-antipolis.jpeg&#34; alt=&#34;&#34;&gt;&#xA;&lt;em&gt;Photo credit &lt;a href=&#34;https://jacques-wisdorff.jimdosite.com/&#34;&gt;Jacques Wisdorff&lt;/a&gt; 🎬 — hosting people during the Trophies Women In Tech South 2022 organised by &lt;a href=&#34;https://what06.fr/&#34;&gt;WHAT06&lt;/a&gt; — Women Hackers Action Tank at the Palais des Festivals et des Congrès de Cannes&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Follow me today in my event organisation throwback, and check the surprise at the end!&lt;/p&gt;&#xA;&lt;p&gt;You can find the french version on &lt;a href=&#34;https://www.linkedin.com/feed/update/urn:li:activity:6930081694972575745/&#34;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Top 5 Women Motivational Speakers in Cloud-Native Development</title>
+      <link>http://localhost:1313/posts/2021-11-23-top-5-women-cloud-native-dev/</link>
+      <pubDate>Tue, 23 Nov 2021 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2021-11-23-top-5-women-cloud-native-dev/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;top-5-women-in-cloud.png&#34; alt=&#34;Top 5 Women In Tech&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;They are CNCF ambassadors, Docker captains, or AWS heroes. The &lt;strong&gt;women in tech are the game-changers of cloud-native development&lt;/strong&gt;, sharing their knowledge about containers, Kubernetes, Docker, or DevOps topics. They inspire the new generation of girls entering into the STEM universe.&lt;/p&gt;&#xA;&lt;p&gt;Diversity is crucial in a successful company by bringing different perspectives to solve a problem, understand all customers and overall coming up with the right solutions to challenges.&lt;br&gt;&#xA;We find many organizations preaching the importance of having female figures to identify and inspire young girls (meaning less than 18 yo) to venture into tech paths.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChangeBlogging my first Hacktoberfest 2021</title>
+      <link>http://localhost:1313/posts/2021-11-05-hacktoberfest-2021/</link>
+      <pubDate>Fri, 05 Nov 2021 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2021-11-05-hacktoberfest-2021/</guid>
+      <description>&lt;p&gt;How I discovered the vast open source world thanks to the Hackoberfest.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;hacktoberfest_01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Three weeks ago, while going through the last posts on &lt;a href=&#34;https://dev.to/doniacld&#34;&gt;Hashnode&lt;/a&gt;, I landed on &lt;a href=&#34;https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021?source=newsletter&#34;&gt;Beginners’s guide to Hacktoberfest 2021&lt;/a&gt; post from Ayushi Rawat.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>10 concepts you should know about distributed systems</title>
+      <link>http://localhost:1313/posts/2021-10-06-10-concepts-distributed-systems/</link>
+      <pubDate>Wed, 06 Oct 2021 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2021-10-06-10-concepts-distributed-systems/</guid>
+      <description>&lt;h2 id=&#34;1-distributed-system&#34;&gt;1. Distributed System&lt;/h2&gt;&#xA;&lt;p&gt;Before deep diving into concepts, let’s define what a distributed sdisstem is. The best definition is from Tim Berglund in an O’Reilly lesson: &lt;em&gt;“distributed systems […] are a collection of &lt;strong&gt;independent computers&lt;/strong&gt; that appears to its user as a single computer”&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;h3 id=&#34;distributed-systems-are-a-collection-of-independent-computers-that-appears-to-its-user-as-a-single-computer&#34;&gt;Distributed systems are a collection of independent computers that appears to its user as a single computer.&lt;/h3&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;2-availability&#34;&gt;2. Availability&lt;/h2&gt;&#xA;&lt;p&gt;A system is available when service interruption is minimal which means downtime and failures are punctual.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

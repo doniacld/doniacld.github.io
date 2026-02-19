@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opensource on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/opensource/</link>
+    <description>Recent content in Opensource on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Fri, 05 Nov 2021 11:06:48 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/opensource/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChangeBlogging my first Hacktoberfest 2021</title>
+      <link>http://localhost:1313/posts/2021-11-05-hacktoberfest-2021/</link>
+      <pubDate>Fri, 05 Nov 2021 11:06:48 +0600</pubDate>
+      <guid>http://localhost:1313/posts/2021-11-05-hacktoberfest-2021/</guid>
+      <description>&lt;p&gt;How I discovered the vast open source world thanks to the Hackoberfest.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;hacktoberfest_01.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Three weeks ago, while going through the last posts on &lt;a href=&#34;https://dev.to/doniacld&#34;&gt;Hashnode&lt;/a&gt;, I landed on &lt;a href=&#34;https://ayushirawat.com/beginners-guide-to-hacktoberfest-2021?source=newsletter&#34;&gt;Beginners’s guide to Hacktoberfest 2021&lt;/a&gt; post from Ayushi Rawat.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ChangeBlogging my first Hacktoberfest 2021</title>
+      <link>http://localhost:1313/blog/2021-11-05-hacktoberfest-2021/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2021-11-05-hacktoberfest-2021/</guid>
+      <description>Walking through one month of my open source contributions during Hacktoberfest 2021 - overcoming fears, making first contributions, and discovering the rewarding world of open source.</description>
+    </item>
+    <item>
+      <title>Open Source Contributions</title>
+      <link>http://localhost:1313/projects/open-source-contributions/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/open-source-contributions/</guid>
+      <description>Contributing to various open source projects including revive (Go linter), TinyGo drivers, and GoBadge.</description>
+    </item>
+  </channel>
+</rss>

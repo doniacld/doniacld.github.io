@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tetragon on Donia Chaiehloudj</title>
+    <link>http://localhost:1313/tags/tetragon/</link>
+    <description>Recent content in Tetragon on Donia Chaiehloudj</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Donia Chaiehloudj</copyright>
+    <lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tetragon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Benchmarks Don&#39;t Lie: The Real Cost of Security Agents</title>
+      <link>http://localhost:1313/podcasts/echo-193-benchmarks-security-agents/</link>
+      <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-193-benchmarks-security-agents/</guid>
+      <description>Episode 193 where I host Henrik Rexed to discuss his benchmarks on runtime security agents and the real cost of eBPF-based security solutions.</description>
+    </item>
+  </channel>
+</rss>
