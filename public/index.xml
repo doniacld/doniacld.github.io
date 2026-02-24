@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Donia Chaiehloudj</copyright>
-    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>eBPF Hookpoint Gotchas</title>
+      <link>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</guid>
+      <description>Episode 203 of eCHO where we discuss eBPF hookpoint gotchas and common pitfalls when working with eBPF programs.</description>
+    </item>
     <item>
       <title>WHAT06: Parcoursup 2026 - Conseils pour faire les bons choix d&#39;orientation</title>
       <link>http://localhost:1313/podcasts/what06-s1ep04-parcoursup/</link>
@@ -43,13 +50,6 @@
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/podcasts/what06-s1ep01-tech4elles/</guid>
       <description>Saison 1 Épisode 1 - Comment tout a commencé ? Avec Valérie Guillon, Maëva Cecchi et Laure Gajetti, celles qui ont fait battre le cœur du projet Tech4Elles.</description>
-    </item>
-    <item>
-      <title>eBPF Hookpoint Gotchas</title>
-      <link>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</link>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</guid>
-      <description>Episode 203 of eCHO where we discuss eBPF hookpoint gotchas and common pitfalls when working with eBPF programs.</description>
     </item>
     <item>
       <title>eBPF Summit Hackathon Edition</title>

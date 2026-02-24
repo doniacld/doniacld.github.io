@@ -7,21 +7,21 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Donia Chaiehloudj</copyright>
-    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/ebpf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>eBPF Hookpoint Gotchas</title>
+      <link>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</guid>
+      <description>Episode 203 of eCHO where we discuss eBPF hookpoint gotchas and common pitfalls when working with eBPF programs.</description>
+    </item>
     <item>
       <title>eBPF Hookpoint Gotchas: Why Your Program Fires (or Fails) in Unexpected Ways</title>
       <link>http://localhost:1313/talks/ebpf-hookpoint-gotchas-fosdem-2026/</link>
       <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/talks/ebpf-hookpoint-gotchas-fosdem-2026/</guid>
       <description>Deep dive into eBPF hookpoints - kprobes/fentry, tracepoints, and uprobes - exposing internal kernel mechanics that cause surprising edge cases.</description>
-    </item>
-    <item>
-      <title>eBPF Hookpoint Gotchas</title>
-      <link>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</link>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</guid>
-      <description>Episode 203 of eCHO where we discuss eBPF hookpoint gotchas and common pitfalls when working with eBPF programs.</description>
     </item>
     <item>
       <title>eBPF Summit Hackathon Edition</title>

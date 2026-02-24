@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/cilium/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ebpf/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/podcast/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/podcasts/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/mentoring/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
@@ -12,15 +30,6 @@
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/parcoursup/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/podcast/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/podcasts/</loc>
-    <lastmod>2026-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tech4elles/</loc>
@@ -40,9 +49,6 @@
   </url><url>
     <loc>http://localhost:1313/podcasts/what06-s1ep03-iryna-louise/</loc>
     <lastmod>2026-02-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ebpf/</loc>
-    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/talks/ebpf-hookpoint-gotchas-fosdem-2026/</loc>
     <lastmod>2026-02-01T00:00:00+00:00</lastmod>
@@ -64,12 +70,6 @@
   </url><url>
     <loc>http://localhost:1313/podcasts/what06-s1ep01-tech4elles/</loc>
     <lastmod>2026-01-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/cilium/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</loc>
-    <lastmod>2026-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/community/</loc>
     <lastmod>2025-12-19T00:00:00+00:00</lastmod>
