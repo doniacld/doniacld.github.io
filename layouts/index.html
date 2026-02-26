@@ -19,8 +19,8 @@
     </div>
   </section>
   
-  {{/* Latest Blog Posts */}}
-  {{ $posts := where .Site.RegularPages "Section" "blog" }}
+  {{/* Latest Blog Posts - sorted by date descending */}}
+  {{ $posts := (where .Site.RegularPages "Section" "blog").ByDate.Reverse }}
   {{ if $posts }}
   <section class="section">
     <div class="section__header">
@@ -35,8 +35,8 @@
   </section>
   {{ end }}
   
-  {{/* Latest Talks */}}
-  {{ $talks := where .Site.RegularPages "Section" "talks" }}
+  {{/* Latest Talks - sorted by date descending */}}
+  {{ $talks := (where .Site.RegularPages "Section" "talks").ByDate.Reverse }}
   {{ if $talks }}
   <section class="section">
     <div class="section__header">
@@ -51,8 +51,8 @@
   </section>
   {{ end }}
   
-  {{/* Latest Podcasts */}}
-  {{ $podcasts := where .Site.RegularPages "Section" "podcasts" }}
+  {{/* Latest Podcasts - sorted by date descending */}}
+  {{ $podcasts := (where .Site.RegularPages "Section" "podcasts").ByDate.Reverse }}
   {{ if $podcasts }}
   <section class="section">
     <div class="section__header">
