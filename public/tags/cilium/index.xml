@@ -7,12 +7,12 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Donia Chaiehloudj</copyright>
-    <lastBuildDate>Sat, 10 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/cilium/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>eBPF Hookpoint Gotchas</title>
       <link>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</link>
-      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/podcasts/echo-203-ebpf-hookpoint-gotchas/</guid>
       <description>Episode 203 of eCHO where we discuss eBPF hookpoint gotchas and common pitfalls when working with eBPF programs.</description>
     </item>
