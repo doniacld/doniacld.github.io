@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 470" font-family="-apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#334155"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1240" height="470" fill="#ffffff"/>
+
+  <!-- Zone headers -->
+  <!-- Network hardware icon: a NIC card with a chip and pins -->
+  <g transform="translate(150,24)" stroke="#64748b" stroke-width="1.6" fill="none">
+    <rect x="2" y="2" width="16" height="11" rx="1.5"/>
+    <rect x="6" y="5" width="6" height="5" rx="1" fill="#64748b" stroke="none"/>
+    <line x1="5" y1="13" x2="5" y2="18"/>
+    <line x1="10" y1="13" x2="10" y2="18"/>
+    <line x1="15" y1="13" x2="15" y2="18"/>
+  </g>
+  <text x="178" y="40" font-size="19" font-weight="600" fill="#64748b">Network hardware</text>
+
+  <!-- Network driver icon: two opposing arrows -->
+  <g transform="translate(432,24)" stroke="#64748b" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 7 H15 M12 4 L16 7 L12 10"/>
+    <path d="M17 14 H5 M8 11 L4 14 L8 17"/>
+  </g>
+  <text x="460" y="40" font-size="19" font-weight="600" fill="#64748b">Network driver</text>
+
+  <!-- Kernel network stack icon: stacked layers -->
+  <g transform="translate(800,25)" fill="#64748b">
+    <rect x="2" y="2" width="16" height="3.4" rx="1"/>
+    <rect x="2" y="7.3" width="16" height="3.4" rx="1"/>
+    <rect x="2" y="12.6" width="16" height="3.4" rx="1"/>
+  </g>
+  <text x="828" y="40" font-size="19" font-weight="600" fill="#64748b">Linux kernel network stack</text>
+
+  <!-- Zone dividers -->
+  <line x1="400" y1="55" x2="400" y2="335" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="6 6"/>
+  <line x1="600" y1="55" x2="600" y2="335" stroke="#cbd5e1" stroke-width="2" stroke-dasharray="6 6"/>
+
+  <!-- Packet -->
+  <polygon points="40,180 190,180 160,250 10,250" fill="#f1f5f9" stroke="#94a3b8" stroke-width="2"/>
+  <text x="100" y="222" text-anchor="middle" font-size="20" font-weight="600" fill="#0f172a">Packet</text>
+
+  <!-- Stage boxes -->
+  <g font-size="20" font-weight="600" fill="#0f172a" text-anchor="middle">
+    <rect x="230" y="170" width="150" height="90" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+    <text x="305" y="222">NIC</text>
+
+    <rect x="430" y="170" width="150" height="90" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+    <text x="505" y="222">Driver</text>
+
+    <rect x="650" y="170" width="230" height="90" rx="10" fill="#fee2e2" stroke="#ef4444" stroke-width="2"/>
+    <text x="765" y="208">Network stack</text>
+    <text x="765" y="236" font-size="16" font-weight="500" fill="#b91c1c">sk_buff is built here</text>
+
+    <rect x="930" y="170" width="150" height="90" rx="10" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+    <text x="1005" y="214">TC ingress</text>
+    <text x="1005" y="238" font-size="16" font-weight="500" fill="#475569">+ iptables</text>
+
+    <rect x="1130" y="170" width="90" height="90" rx="10" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+    <text x="1175" y="222">...</text>
+  </g>
+
+  <!-- Flow arrows -->
+  <g stroke="#334155" stroke-width="2.5" marker-end="url(#arrow)" fill="none">
+    <line x1="195" y1="215" x2="226" y2="215"/>
+    <line x1="382" y1="215" x2="426" y2="215"/>
+    <line x1="582" y1="215" x2="646" y2="215"/>
+    <line x1="882" y1="215" x2="926" y2="215"/>
+    <line x1="1082" y1="215" x2="1126" y2="215"/>
+  </g>
+
+  <!-- Three XDP attach points: offload (NIC), native (driver), generic (kernel) -->
+  <g text-anchor="middle">
+    <rect x="245" y="273" width="120" height="50" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+    <text x="305" y="294" font-size="17" font-weight="700" fill="#15803d">XDP</text>
+    <text x="305" y="313" font-size="14" font-weight="600" fill="#15803d">offload</text>
+
+    <rect x="445" y="273" width="120" height="50" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+    <text x="505" y="294" font-size="17" font-weight="700" fill="#15803d">XDP</text>
+    <text x="505" y="313" font-size="14" font-weight="600" fill="#15803d">native</text>
+
+    <rect x="705" y="273" width="120" height="50" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+    <text x="765" y="294" font-size="17" font-weight="700" fill="#15803d">XDP</text>
+    <text x="765" y="313" font-size="14" font-weight="600" fill="#15803d">generic</text>
+  </g>
+
+  <!-- Bottom annotations -->
+  <g text-anchor="middle">
+    <text x="505" y="378" font-size="18" font-weight="600" fill="#15803d">XDP attaches on the NIC, in the driver, or in the kernel.</text>
+    <text x="505" y="403" font-size="16" font-weight="500" fill="#15803d">offload and native run before the sk_buff; generic runs after it.</text>
+
+    <text x="1005" y="378" font-size="18" font-weight="600" fill="#475569">TC and iptables run here,</text>
+    <text x="1005" y="403" font-size="16" font-weight="500" fill="#475569">on the sk_buff.</text>
+    <line x1="1005" y1="358" x2="1005" y2="265" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+  </g>
+</svg>
