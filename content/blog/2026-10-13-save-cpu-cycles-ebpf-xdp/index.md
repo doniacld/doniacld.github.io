@@ -12,7 +12,7 @@ tags:
   - performance
 summary: "I wrote the same packet drop two ways, in TC and in XDP, and measured the CPU. On veth, XDP was 1.7% slower. On a real driver it cut cycles by 28%. Where XDP runs decides what it saves."
 featured: false
-draft: true
+draft: false
 ---
 
 *AI use disclaimer: I used Claude Code to analyze the benchmark output, draft and review this write-up, and tidy my French syntax into English. The measurements are real runs, and the opinions, questions, and editorial choices are mine.*
