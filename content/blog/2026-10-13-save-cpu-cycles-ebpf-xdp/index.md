@@ -1,9 +1,9 @@
 ---
 title: "Is XDP more performant than TC?"
 date: 2026-10-13
-slug: "save-cpu-cycles-ebpf-xdp"
+slug: "is-xdp-more-performant-than-tc"
 images:
-  - blog/save-cpu-cycles-ebpf-xdp/cover.png
+  - blog/is-xdp-more-performant-than-tc/cover.png
 tags:
   - ebpf
   - xdp
